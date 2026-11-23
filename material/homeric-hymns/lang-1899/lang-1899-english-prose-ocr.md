@@ -6,10 +6,7 @@
 - **Translator:** Andrew Lang (1844-1912)
 - **Year:** 1899
 - **Read from:** https://archive.org/download/homerichymnsnewp00langiala/homerichymnsnewp00langiala_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain in the United States (published 1899) and in the United Kingdom (Lang died 1912).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 ANDREW  LANG 

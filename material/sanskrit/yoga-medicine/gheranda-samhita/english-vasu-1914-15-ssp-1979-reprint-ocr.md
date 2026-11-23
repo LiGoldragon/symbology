@@ -5,9 +5,7 @@ edition: Sacred Books of the Hindus vol. 15 part 2 (Allahabad, Panini Office, 19
 translator: Srisa Chandra Vasu (Rai Bahadur)
 year: 1914-15 (reprint 1979)
 source_url: https://archive.org/details/55915gherandasamhitabyscvasu
-date_fetched: 2026-11-21
 licence: Public domain: Vasu d. 1919; first published 1914-15, before 1930; the 1979 item is a reprint of that text. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. English only; Sanskrit not included.
 ---
 
 Gheranda Samhita

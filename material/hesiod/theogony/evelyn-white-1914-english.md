@@ -6,10 +6,7 @@
 - **Translator:** Hugh G. Evelyn-White
 - **Year:** 1914
 - **Read from:** https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0020/tlg001/tlg0020.tlg001.perseus-eng2.xml
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the Greek text and Evelyn-White's translation were published in 1914 (Hugh G. Evelyn-White, 1884-1924, died more than 70 years ago), so both are public domain in the United States (published before 1931) and in the United Kingdom/author's country. Perseus's own TEI encoding of the text is offered under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), which allows redistribution; credit: Perseus Digital Library, Tufts University, https://www.perseus.tufts.edu/ (source repository PerseusDL/canonical-greekLit).
-- **Format note:** Marks as rendered from the Perseus TEI tags: *…* italics; […] a lacuna or, around words, text the translator brackets as spurious; ⟨…⟩ supplied words. The Loeb prose translation is not lineated: the bold number [n] marks the verse number of the Greek at which the following paragraph (or group of lines) begins, as the Perseus file gives it every fifth line.
-
 ---
 
 **[1]** From the Heliconian Muses let us begin to sing, who hold the great and holy mount of Helicon, and dance on soft feet about the deep-blue spring and the altar of the almighty son of Cronos,

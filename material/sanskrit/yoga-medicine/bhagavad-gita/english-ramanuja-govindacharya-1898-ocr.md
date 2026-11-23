@@ -5,9 +5,7 @@ edition: Madras, Vaijayanti Press, 1898 (scan of the Royal Asiatic Society Bomba
 translator: A. Govindacharya
 year: 1898
 source_url: https://archive.org/details/india.history.resource.74429
-date_fetched: 2026-11-21
 licence: Public domain: published Madras 1898. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 00143092

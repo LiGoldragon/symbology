@@ -6,10 +6,7 @@
 - **Translator:** none (Greek); Latin of the Planisphaerium from the Arabic in the same volume
 - **Year:** 1907
 - **Read from:** https://archive.org/details/claudiiptolemae05ptolgoog (file claudiiptolemae05ptolgoog_djvu.txt); the other scan https://archive.org/details/claudiiptolemae04ptolgoog is a second copy of the same volume
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the work is Ptolemy (2nd century); the edition and print are of the date given, and the editor/translator/printer died long before 1955 (worldwide public domain by age). The digitisation carries no claim of its own that was found. (Heiberg d. 1928.)
-- **Text status:** Raw machine OCR from Google, not corrected; the Latin reads, the Greek is garbled. The Google notice precedes the title page. The First1KGreek clean transcription of this volume does not exist; the cleaner Greek of the Almagest (vol. I) is in heiberg-1898-1903-greek-first1k.md.
-
 ---
 
 Google 

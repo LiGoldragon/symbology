@@ -5,9 +5,7 @@ edition: Nirnaya Sagar Press, Bombay, 1882 (Sri Aurobindo Library scan)
 translator: Hindi bhasha by Shridhara
 year: 1882
 source_url: https://archive.org/details/dtnb_hatha-yoga-pradipika-by-svatmarama-commentary-jyotsna-by-brahmananda-and-manobhi
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1882. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Scan witness of the edition the Wikisource text transcribes.
 ---
 
 |

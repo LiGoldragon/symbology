@@ -5,9 +5,7 @@ edition: Kalyan, Bombay, 1913 (Jangamwadi Math collection scan)
 translator: Hindi bhasha (unnamed)
 year: 1913
 source_url: https://archive.org/details/IiUL_gheranda-samhita-of-gheranda-yogishvar-kalyana-mumbai-1913-jangamwadi-math-collection
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1913. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 ५ 28१

@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor (English verse)
 - **Year:** 1824
 - **Read from:** https://archive.org/download/mysticalhymnsor00taylgoog/mysticalhymnsor00taylgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1824; Taylor died 1835).
-- **Text status:** OCR text of a scan, kept raw.
-
 ---
 
 Google 

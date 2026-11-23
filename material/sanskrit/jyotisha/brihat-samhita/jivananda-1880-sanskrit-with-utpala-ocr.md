@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Calcutta, Saraswati Yantra Press, 1880 (Sanskrit in Devanagari)
 year: 1880
 source_url: https://archive.org/details/SP4150BrihatSamhitaOfBarahamiraCalcutta1880Pt.JibanandaVidyasagar
-date_fetched: 2026-11-21
 licence: public domain. Basis: 19th-century editor; Calcutta 1880; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR is readable but noisy
 ---
 
 हे 

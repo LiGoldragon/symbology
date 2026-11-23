@@ -5,9 +5,7 @@ edition: Bombay Theosophical Publication Fund, Rajaram Tukaram Tatya, 1907
 translator: Ganganatha Jha
 year: 1907
 source_url: https://archive.org/details/yogadaranasutra00patagoog
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1907; Jha d. 1941. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project

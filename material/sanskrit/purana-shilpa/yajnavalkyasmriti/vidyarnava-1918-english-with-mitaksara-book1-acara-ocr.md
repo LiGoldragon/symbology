@@ -5,9 +5,7 @@ translator: Srisa Chandra Vidyarnava (Rai Bahadur), English translation of the t
 edition: Sacred Books of the Hindus vol. XXI, edited by Major B. D. Basu, I.M.S.; Allahabad: Panini Office, Bhuvaneswari Asrama, Bahadurganj, 1918 (fascicles Nos. 100-108, October 1917 to June 1918; University of Toronto copy, Internet Archive). Book I only (Achara adhyaya); the Vyavahara and Prayascitta books are not in this file.
 year: 1918
 source_url: https://archive.org/download/yajnavalkyasmrit00yj/yajnavalkyasmrit00yj_djvu.txt (item page https://archive.org/details/yajnavalkyasmrit00yj)
-date_fetched: 2026-11-21
 licence: Public domain. Public domain in the United States by age (first published before 1931). Translator Vidyarnava died c. 1919-20 (not checked here).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. Sanskrit appears only in transliteration inside the English.
 ---
 
 pujiHUirtumi

@@ -5,9 +5,7 @@ translator: none (Sanskrit text)
 edition: GRETIL e-text after V. K. R. Pandit, Journal of the University of Bombay; IAST
 year: 6th c. CE (work)
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_varAhamihira-tikanikayAtra.txt
-date_fetched: 2026-11-21
 licence: open licence granted by GRETIL: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (per the file header). Basis for public: the explicit CC grant; GRETIL states the e-text was supplied in good faith that no copyright is infringed. Ancient work; the licence does not extend to the underlying modern edition beyond what GRETIL grants
-text_status: GRETIL plain-text transformation of the TEI file, IAST, as downloaded, GRETIL header kept below the front matter
 ---
 
 Varāhamihira: Tikanikayātra

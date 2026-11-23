@@ -5,9 +5,7 @@ edition: Wikisource sa transcription of the Nirnaya Sagar Press edition, Bombay 
 translator: none (Hindi bhasha by Shridhara in the text)
 year: 1882
 source_url: https://sa.wikisource.org/wiki/हठयोगप्रदीपिका_(ज्योत्स्नाव्याख्यासहिता)
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). Wikisource transcription (contributors, CC BY-SA 4.0); the edition transcribed is not stated on the page. Source edition: Nirnaya Sagar Press, Bombay, Shaka 1804 (1882), per its title page.
-text_status: Clean Devanagari transcription of the whole work with Jyotsna; wikitext markup stripped.
 ---
 
 <!-- wikisource page: हठयोगप्रदीपिका (ज्योत्स्नाव्याख्यासहिता) -->

@@ -1,3 +1,3 @@
-# Symbology
+# Symbology sources
 
-The correspondences of colour, shape, line and symbol with feeling, drawn from the Sanskrit śāstras and from later authors, and the visual standard by which our figures are drawn.
+- [Editions and facsimiles](material-index.md)

@@ -5,9 +5,7 @@ edition: Calcutta, issued in fascicles 1890-1912 (BIU Sante scan of the fascicle
 translator: Avinash Chandra Kaviratna; later fascicles Pareshnath Sarma
 year: 1890-1912
 source_url: https://archive.org/details/BIUSante_47357
-date_fetched: 2026-11-21
 licence: Public domain: published Calcutta in fascicles 1890-1912, before 1930. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Translation of the Sutrasthana, Nidana-, Vimana-, Sarira-, Indriya- and part of the Cikitsasthana, as issued; Kalpa- and Siddhisthana are not translated in this series.
 ---
 
 4  7*35'?

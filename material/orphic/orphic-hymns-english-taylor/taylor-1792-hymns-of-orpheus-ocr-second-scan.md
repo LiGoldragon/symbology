@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor (English verse)
 - **Year:** 1792
 - **Read from:** https://archive.org/download/dli.ministry.28841/16922.3759-The%2520Hymns%2520of%2520Orpheus%2520With%2520a%2520Preliminary%2520Dissertation%2520on%2520The%2520Life%2520and%2520Theology%2520of%2520Orpheusand_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1792).
-- **Text status:** OCR text of a scan, kept raw.
-
 ---
 
 HYMNS OF ORPHEUS 

@@ -5,9 +5,7 @@ translator: none (Sanskrit; Hindi bhāṣā explanations, translator not named i
 edition: Bombay, Khemraj Shrikrishnadas press; the OCR reads the text's date as Samvat 1961 (about 1904/05), uncertain; archive.org item "Brihajjataka with Nouka teeka"
 year: c. 1904-05 (uncertain)
 source_url: https://archive.org/details/brihajjataka-with-nouka-teeka
-date_fetched: 2026-11-21
 licence: public domain on the assumption of publication before 1930 (US public domain by age); date read from garbled OCR, so flagged: confirm the print date
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR with errors
 ---
 
 ` अच्छी ~ 1 

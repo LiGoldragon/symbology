@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1896
 - **Read from:** https://archive.org/download/orpheus00meadgoog/orpheus00meadgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1896; Mead died 1933).
-- **Text status:** OCR text of a scan, kept raw.
-
 ---
 
 Google 

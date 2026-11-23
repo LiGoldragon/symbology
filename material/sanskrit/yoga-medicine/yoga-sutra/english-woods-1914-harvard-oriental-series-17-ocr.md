@@ -5,9 +5,7 @@ edition: Harvard Oriental Series vol. 17, Cambridge MA, Harvard University Press
 translator: James Haughton Woods
 year: 1914
 source_url: https://archive.org/details/yogasystemofpata00wooduoft
-date_fetched: 2026-11-21
 licence: Public domain: published Cambridge MA 1914; Woods d. 1935. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Contains sutras, Vyasa bhashya and Vacaspati in translation, with notes.
 ---
 
 ■■rs.

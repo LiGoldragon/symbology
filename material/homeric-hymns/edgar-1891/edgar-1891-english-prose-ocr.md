@@ -6,10 +6,7 @@
 - **Translator:** John Edgar (1857-1922), B.A. (Oxon.), M.A. (Glasgow)
 - **Year:** 1891
 - **Read from:** https://archive.org/download/homerichymns00edgaiala/homerichymns00edgaiala_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1891; Edgar died 1922).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 Hymns 

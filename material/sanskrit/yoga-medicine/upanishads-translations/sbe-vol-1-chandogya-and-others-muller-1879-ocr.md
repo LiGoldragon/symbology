@@ -5,9 +5,7 @@ edition: Oxford, Clarendon Press, 1879
 translator: F. Max Muller
 year: 1879
 source_url: https://archive.org/details/india.history.resource.85913
-date_fetched: 2026-11-21
 licence: Public domain: published Oxford 1879; Muller d. 1900. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Chandogya in full with Muller's notes.
 ---
 
 00062498

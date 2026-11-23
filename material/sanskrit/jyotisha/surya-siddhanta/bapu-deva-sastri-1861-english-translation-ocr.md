@@ -5,9 +5,7 @@ translator: Bāpū Deva Śāstrī (Siddhānta Śiromaṇi by Lancelot Wilkinson)
 edition: translated by Pandit Bapu Deva Sastri and Lancelot Wilkinson, Calcutta, Baptist Mission Press for the Asiatic Society, 1861 (Bibliotheca Indica); archive.org items "Translation of the Surya Siddhanta; Siddhanta Siromani" and "Translation of surya siddhanta" (this file is from the former)
 year: 1861
 source_url: https://archive.org/details/india.history.resource.106908
-date_fetched: 2026-11-21
 licence: public domain. Basis: 19th-century translators; Calcutta 1861; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here
 ---
 
 VAULT A 

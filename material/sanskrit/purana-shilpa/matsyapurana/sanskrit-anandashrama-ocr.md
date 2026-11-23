@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Anandasrama Sanskrit Series no. 54, edited by the pandits of the Anandasrama; Poona: Anandasrama Press. The year printed on the title page is not legible in the OCR (from memory, not read here: the Anandasrama Matsyapurana is of about 1907). The graha passage (ch. 93) can be found by searching for «मध्ये तु भास्करं».
 year: c. 1907 (not legible in the OCR)
 source_url: https://archive.org/download/ozcr-matsya-purana-aa-54-ananda-ashram/Matsya%20Purana%20AA-54%20-%20Ananda%20Ashram_djvu.txt (item page https://archive.org/details/ozcr-matsya-purana-aa-54-ananda-ashram)
-date_fetched: 2026-11-21
 licence: Public domain. Published at Poona; the Anandasrama Sanskrit Series ran from 1888, number 54 is from the first decades of the series (before 1931; the exact year could not be read from the OCR).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 र हि संस्कृतग्रन्थावालिः ।

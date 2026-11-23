@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor
 - **Year:** 1825
 - **Read from:** https://archive.org/download/cu31924029006209/cu31924029006209_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1825).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 Th^    Anthon    Library. 

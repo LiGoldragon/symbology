@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor
 - **Year:** 1820
 - **Read from:** https://archive.org/download/proclusontimaeus01procuoft/proclusontimaeus01procuoft_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1820).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 ae 

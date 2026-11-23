@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1829
 - **Read from:** https://archive.org/download/aglaophamussived01lobeuoft/aglaophamussived01lobeuoft_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1829; Lobeck died 1860).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 

@@ -5,9 +5,7 @@ translator: none (Sanskrit; no English translation exists in the sources found)
 edition: Trivandrum Sanskrit Series no. 98, edited by K. Sambasiva Sastri; Trivandrum: Travancore Government Press, 1929. Part 2 is the Uttarabhaga; the scan PDF is kept beside it.
 year: 1929
 source_url: https://archive.org/download/TSS098TheSilparatnaOfSriKumaraKSambasivaSastriVolume21929_201809/TSS-098_The_silparatna_of_sri_kumara_-_K_Sambasiva_Sastri_-_Volume_21929_djvu.txt (item page https://archive.org/details/TSS098TheSilparatnaOfSriKumaraKSambasivaSastriVolume21929_201809)
-date_fetched: 2026-11-21
 licence: Public domain. Public domain in the United States by age (first published before 1931). Published Trivandrum 1929.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. Devanagari recognition is moderate: verses are mostly readable, with substitution errors in conjuncts and in the verse-number punctuation.
 ---
 
 ॐ:137.1.81.1.2.9.75/14.109711971.

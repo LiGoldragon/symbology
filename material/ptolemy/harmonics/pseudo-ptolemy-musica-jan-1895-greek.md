@@ -6,10 +6,7 @@
 - **Translator:** none (Greek)
 - **Year:** 1895 (First1KGreek transcription 2017)
 - **Read from:** https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0363/tlg011/tlg0363.tlg011.1st1K-grc1.xml (TEI XML converted to Markdown by script; nothing summarised)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** The transcription is licensed CC BY-SA 4.0 (stated in the TEI header; credit Harvard College Library / the First1KGreek project, https://github.com/OpenGreekAndLatin/First1KGreek). The underlying Teubner edition is of 1895 (Jan d. 1899): public domain.
-- **Text status:** Complete as transcribed: paragraphs 1 to the end. Markers: [p. N] is the page of Jan's edition.
-
 ---
 
 [p. 411]

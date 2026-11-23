@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1805
 - **Read from:** https://archive.org/download/bub_gb_i1oNAAAAYAAJ/bub_gb_i1oNAAAAYAAJ_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1805).
-- **Text status:** OCR text of a scan, kept raw.
-
 ---
 
 TETTE 

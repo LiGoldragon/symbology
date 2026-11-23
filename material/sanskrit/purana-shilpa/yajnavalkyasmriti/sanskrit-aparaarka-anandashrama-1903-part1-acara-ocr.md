@@ -6,9 +6,7 @@ commentator: Aparaarka (Aparaditya), the traditional commentary (a second commen
 edition: Anandasrama Sanskrit Series no. 46, edited by the pandits of the Anandasrama, Hari Narayana Apte; Poona: Anandasrama Press, Saka 1825 (1903 CE). Part 1 only (Acharadhyaya); the later parts of this edition were not taken.
 year: 1903
 source_url: https://archive.org/download/SP5240YajnavalkyaSmritiVol11903SeriesNo46AnandAshramSeries/SP_5240_Yajnavalkya%20Smriti%20Vol%201%201903%20Series%20No%2046%20-%20Anand%20Ashram%20Series%20_djvu.txt (item page https://archive.org/details/SP5240YajnavalkyaSmritiVol11903SeriesNo46AnandAshramSeries)
-date_fetched: 2026-11-21
 licence: Public domain. Published Poona 1903.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 [.8/857२४-

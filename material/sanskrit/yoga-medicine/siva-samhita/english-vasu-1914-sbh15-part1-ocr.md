@@ -5,9 +5,7 @@ edition: Sacred Books of the Hindus vol. XV part 1, Allahabad, Panini Office, 19
 translator: Srisa Chandra Vasu
 year: 1914
 source_url: https://archive.org/details/in.ernet.dli.2015.367623
-date_fetched: 2026-11-21
 licence: Public domain: published Allahabad 1914; Vasu d. 1919. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. The Devanagari lines are unreadable; English is read. The whole volume XV (with the Gheranda) is under gheranda-samhita/.
 ---
 
 FWmi IT THEPMIIIH jmCE

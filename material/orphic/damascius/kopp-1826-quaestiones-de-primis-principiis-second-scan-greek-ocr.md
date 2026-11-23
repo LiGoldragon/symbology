@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1826
 - **Read from:** https://archive.org/download/damascioudiadoc00koppgoog/damascioudiadoc00koppgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1826).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 Οου§ΐ£ 

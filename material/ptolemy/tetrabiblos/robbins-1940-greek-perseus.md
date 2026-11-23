@@ -6,11 +6,7 @@
 - **Translator:** none (Greek)
 - **Year:** 1940 (Perseus 4.0 release 2011-09-12; EpiDoc/CTS conversion 2023)
 - **Read from:** https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0363/tlg007/tlg0363.tlg007.perseus-grc2.xml
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Greek text of F. E. Robbins's Loeb edition (1940; Perseus used the 1964 printing), keyboarded by the Perseus Project (Tufts University). Licence of this transcription: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0), stated in the TEI header of the file; reuse must credit the Perseus Digital Library (https://www.perseus.tufts.edu/) and link its source repository (https://github.com/PerseusDL/canonical-greekLit), and corrections go to Perseus. The underlying text is Robbins's Greek (US public domain by non-renewal, see the English file); Robbins was American.
-- **Form:** TEI XML turned into Markdown text by script. [Cam.² N] marks page N of the second Camerarius edition; [Loeb p.N] marks the (even-numbered) Greek page of the Loeb volume. The two alternative conclusions of Book IV are chapters 10a (Parisinus 2425) and 10b (MADProc.Cam.). Chapter headings in Greek exist in the source only for the first chapter; the chapter numbers are those of the source. "(??)" and "[figure/equation not transcribed in source]" are in the source.
-- **Completeness check:** 63 chapters, 38,915 words of Greek; Book I 1-24, II 1-13, III 1-14, IV 1-10, 10a, 10b.
-
 ---
 
 Κλαυδίου Πτολεμαίου μαθηματικῆς τετραβίβλου συντάξεως

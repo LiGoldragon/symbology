@@ -5,9 +5,7 @@ edition: GRETIL e-text (Gaudiya Grantha Mandira), all 18 chapters
 translator: none
 year: n.d.
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bhagavadgItA-4comm.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header.
-text_status: Clean IAST e-text, all eighteen chapters with four commentaries.
 ---
 
 Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva

@@ -5,9 +5,7 @@ edition: Edited by Taranatha Vidyaratna, Calcutta (the Tantrik Texts series; imp
 translator: English introduction (Avalon)
 year: c. 1913
 source_url: https://archive.org/details/svlw-shatchakra-nirupana-and-paduka-panchaka-taranatha-
-date_fetched: 2026-11-21
 licence: Public domain: the edition of the Tantrik Texts volume dated 1913 in the other scan; imprint of this scan not read. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Imprint page not read; identified as the Tantrik Texts edition.
 ---
 
 Ж?” н A bass sik HT —-

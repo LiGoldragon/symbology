@@ -5,9 +5,7 @@ translator: Ebenezer Burgess
 edition: Journal of the American Oriental Society vol. 6 (1860), pp. 141-498, as separately issued; title page "assisted by the Committee of Publication of the American Oriental Society"; archive.org item "SÛRYA SIDDHÂNTA Burgess Translation 2"
 year: 1860
 source_url: https://archive.org/details/su-rya-siddha-nta-burgess-translation-2
-date_fetched: 2026-11-21
 licence: public domain. Basis: Burgess d. 1870; New Haven 1860; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here
 ---
 
 TRANSLATION 

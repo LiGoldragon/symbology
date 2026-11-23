@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1885 (edition); transcription made by Wikisource volunteers
 - **Read from:** https://el.wikisource.org/wiki/Ορφικοί_ύμνοι and its 88 subpages (rendered page text through the MediaWiki API, action=parse)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** The hymns and Abel's 1885 text are public domain (Abel died 1889). The Wikisource transcription is offered by Wikisource under CC BY-SA 4.0 (attribution to the Greek Wikisource contributors; share-alike).
-- **Text status:** Clean proofread polytonic Greek, converted from HTML to plain text; verse numbers stand at line ends as Abel gives them. This is the readable Greek of the hymns; Quandt's 1941 text is not openly available.
-
 ---
 
 

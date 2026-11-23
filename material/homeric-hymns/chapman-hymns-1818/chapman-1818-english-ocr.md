@@ -6,10 +6,7 @@
 - **Translator:** George Chapman (c. 1559-1634)
 - **Year:** 1818 (Chapman, c. 1624)
 - **Read from:** https://archive.org/download/hymnshomerbatra01singgoog/hymnshomerbatra01singgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (Chapman died 1634; the 1818 edition is old). Google asks for non-commercial use of its scans; the underlying book is public domain.
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 

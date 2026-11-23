@@ -5,9 +5,7 @@ edition: Oxford, Clarendon Press, 1884
 translator: F. Max Muller
 year: 1884
 source_url: https://archive.org/details/mlbd.upanishadssacred0000vol-15.unse_x5j4
-date_fetched: 2026-11-21
 licence: Public domain: published Oxford 1884; Muller d. 1900. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Taittiriya in full with notes.
 ---
 
 -THESACRED BOOKS

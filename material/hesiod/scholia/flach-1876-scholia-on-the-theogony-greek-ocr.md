@@ -6,10 +6,7 @@
 - **Translator:** none (Greek scholia; German introduction)
 - **Year:** 1876
 - **Read from:** https://archive.org/download/glossenundschol00flacgoog/glossenundschol00flacgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1876; Flach died 1914).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; running heads, page numbers, line-end hyphens, the Google Books boilerplate where the scan has it, and recognition errors left as they are) and follows after the rule below. Quality: the Greek scholia are readable; the German prolegomena and sigla are partly garbled; the Google notice at the head is garbled into Greek-looking characters.
-
 ---
 
 ( οοσίς 

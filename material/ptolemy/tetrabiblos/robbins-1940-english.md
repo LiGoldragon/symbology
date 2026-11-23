@@ -6,11 +6,7 @@
 - **Translator:** Frank Egleston Robbins
 - **Year:** 1940
 - **Read from:** LacusCurtius (Bill Thayer), https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ptolemy/Tetrabiblos/home.html ; pages Introduction*, 1A*, 1B*, 2A*, 2B*, 2C*, 3A*, 3B*, 3C*, 3D*, 4A*, 4B*, 4C*.html at the same address
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** The Greek text and English translation are those of Frank Egleston Robbins (American, 1884-1964), Loeb Classical Library 435, Harvard University Press / William Heinemann, 1940. Status: public domain in the United States because the 1940 copyright was not renewed (basis: Bill Thayer, LacusCurtius, home page of the Tetrabiblos: 'now in the public domain pursuant to the 1978 revision of the U.S. Copyright Code, since the copyright was not renewed at the appropriate time'); I did not check the Catalog of Copyright Entries renewal records myself (the Stanford renewal database was not reachable). Robbins was American, so the US status is the relevant one. Thayer's own notes and transcription are public domain (the URLs carry a single asterisk, which Thayer defines as public domain). One editor's note of 1980 (Introduction, note 20), which Thayer says is still (c) Harvard University Press 1980, is omitted from this copy and marked where it stood.
-- **Form:** HTML cleaned to Markdown text by script; nothing summarised. Markers kept: [Loeb pN] is the Loeb page; [Cam. N] and [Cam.² pN] the page of Camerarius's edition (1st/2nd ed.); [nK] points to editor's note K, listed at the end of each section under "The Editor's Notes". Thayer's own comments are marked "Thayer's Note". The Greek words in the notes are as Thayer transcribed them.
-- **Completeness check:** 63 chapters present: Book I 1-24, Book II 1-13, Book III 1-14, Book IV 1-10 plus the two alternative conclusions; matches the Greek file robbins-1940-greek-perseus.md chapter for chapter.
-
 ---
 
 <!-- LacusCurtius page: Introduction*.html -->

@@ -5,9 +5,7 @@ edition: GRETIL e-text (R. P. Das and R. E. Emmerick), source edition not named 
 translator: none
 year: n.d. (c. 600-650 CE text)
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vAgbhaTa-aSTAGgahRdayasUtra.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header.
-text_status: Clean IAST e-text of the Sutrasthana only.
 ---
 
 Vāgbhaṭa: Aṣṭāṅgahṛdayasūtra

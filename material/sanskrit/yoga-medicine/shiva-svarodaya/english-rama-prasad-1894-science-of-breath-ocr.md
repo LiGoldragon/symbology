@@ -5,9 +5,7 @@ edition: London, Theosophical Publishing Society, 1894 (HathiTrust / Google scan
 translator: Rama Prasad
 year: 1894
 source_url: https://archive.org/details/rama-prasad-sb
-date_fetched: 2026-11-21
 licence: Public domain: published London 1894; HathiTrust marks it public domain in the US. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 The science of breath and the philosophy of the tattvas; translated

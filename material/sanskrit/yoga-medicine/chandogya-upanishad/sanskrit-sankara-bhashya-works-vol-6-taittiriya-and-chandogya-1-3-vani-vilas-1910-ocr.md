@@ -5,9 +5,7 @@ edition: Srirangam, Sri Vani Vilas Press, 1910 (archive item title)
 translator: none
 year: 1910
 source_url: https://archive.org/details/wg1061
-date_fetched: 2026-11-21
 licence: Public domain: published Srirangam 1910. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Contains Sankara's bhashya on the Taittiriya and on Chandogya chapters 1-3; the same file serves taittiriya-upanishad/.
 ---
 
 ५ ५।५६{ ५१॥

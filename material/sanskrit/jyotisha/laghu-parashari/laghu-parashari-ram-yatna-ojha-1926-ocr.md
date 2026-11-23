@@ -5,9 +5,7 @@ translator: none (Sanskrit; commentary by Ram Yatna Ojha)
 edition: Varanasi, 1926 (archive.org item from the Jangamwadi Math collection)
 year: 1926
 source_url: https://archive.org/details/Rtjy_laghu-parashari-with-commentary-of-ram-yatna-ojha-1926-varanasi-jangamwadi-math-collection
-date_fetched: 2026-11-21
 licence: public domain. Basis: commentator Ram Yatna Ojha; Varanasi 1926; Indian term not checked; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR poor in the title pages, text pages readable
 ---
 
 3 

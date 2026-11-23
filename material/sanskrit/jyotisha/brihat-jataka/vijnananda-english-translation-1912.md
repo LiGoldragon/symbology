@@ -5,9 +5,7 @@ translator: Swami Vijnananda (alias Hari Prasanna Chatterjee)
 edition: first published 1912 (Panini Office, Allahabad); this scan is the Munshiram Manoharlal Oriental Reprint, second edition 1979 (archive.org item "Brihat Jataka of Varahamihira by Swami Vijnananda")
 year: 1912 (reprint 1979)
 source_url: https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda
-date_fetched: 2026-11-21
 licence: public domain. Basis: translator Swami Vijnananda d. 1938; first published 1912; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; the scanned book is the 1979 reprint, whose own front matter is not part of the 1912 work
 ---
 
 GOVERNMENT OF INDIA 

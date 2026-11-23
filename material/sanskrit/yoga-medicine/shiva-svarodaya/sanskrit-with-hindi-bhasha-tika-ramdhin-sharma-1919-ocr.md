@@ -5,9 +5,7 @@ edition: Vraj Vallabh Hari Prasad, Jagadishvar Press, Bombay, 1919
 translator: Hindi bhasha tika by Ramdhin Sharma
 year: 1919
 source_url: https://archive.org/details/wtGS_shiv-svarodaya-with-bhasha-tika-of-ramdhin-sharma-by-vraj-vallabh-hari-prasad-1919-jagadishvar-
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1919. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Scan text begins with some noise pages.
 ---
 
 ० व र / t of - 2 क? > ९ > १

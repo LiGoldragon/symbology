@@ -6,10 +6,7 @@
 - **Translator:** Hugh G. Evelyn-White
 - **Year:** 1914
 - **Read from:** https://gutenberg.pglaf.org/3/4/348/348-0.txt (a mirror of https://www.gutenberg.org/ebooks/348)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain in the United States (published 1914) and in the United Kingdom (Evelyn-White died 1924). Public domain in the United States (published before 1931). Project Gutenberg's licence header and footer have been removed from this copy, as the licence allows for a work in the public domain in the United States; the text between its START and END markers is kept unchanged.
-- **Note:** this is an extract for convenience; the numbers after words in the text (such as 1701) are the Gutenberg endnote numbers, whose notes stand at the end of the complete-volume file. English only: no free Greek text of the fragments was found (see the report).
-
 ---
 
 THE DIVINATION BY BIRDS

@@ -5,9 +5,7 @@ translator: none (Sanskrit; no English translation exists in the sources found)
 edition: Trivandrum Sanskrit Series no. 75 (Anantasayana Samskrta Granthavali), edited from manuscripts by T. Ganapati Sastri; Trivandrum: Travancore Government Press, 1922. Part 1 is the Purvabhaga (46 chapters, as the introduction says; the citralaksana, painting chapter, can be found by searching for «चित्रलक्षणं»); the scan PDF is kept beside it in the same directory.
 year: 1922
 source_url: https://archive.org/download/TSS075TheSilparatnaOfSriKumaraKSambasivaSastriVolume11922_201809/TSS-075_The_silparatna_of_sri_kumara_-_K_Sambasiva_Sastri_-_Volume_11922_djvu.txt (item page https://archive.org/details/TSS075TheSilparatnaOfSriKumaraKSambasivaSastriVolume11922_201809)
-date_fetched: 2026-11-21
 licence: Public domain. Public domain in the United States by age (first published before 1931). The editor Ganapati Sastri died 1926.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. Devanagari recognition is moderate: verses are mostly readable, with substitution errors in conjuncts and in the verse-number punctuation.
 ---
 
 वप्र,

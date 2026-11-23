@@ -5,9 +5,7 @@ edition: Calcutta, 1890-1925, issued in fascicles (BIU Sante scan, 51 fascicles)
 translator: Avinash Chandra Kaviratna; later fascicles Pareshnath Sarma
 year: 1890-1925
 source_url: https://archive.org/details/BIUSante_47357
-date_fetched: 2026-11-21
 licence: Public domain: published Calcutta 1890-1912 (the fascicles after the translator's death c. 1905, edited by his son, before 1930). Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Covers the Samhita through the fascicles issued; check completeness (it ends in the Cikitsasthana/Siddhi region as printed).
 ---
 
 4  7*35'?

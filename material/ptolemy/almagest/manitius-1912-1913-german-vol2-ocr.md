@@ -6,10 +6,7 @@
 - **Translator:** Karl Manitius
 - **Year:** 1913
 - **Read from:** https://archive.org/details/desclaudiusptole02ptoluoft (file desclaudiusptole02ptoluoft_djvu.txt); scan PDF in the same item
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain in the US by age (published 1912-13, before 1930). Manitius's death date was not checked, so EU status is not stated; no claim of its own on the digitisation found.
-- **Text status:** Raw machine OCR, not corrected; Antiqua print, tables and formulae partly garbled. (A 1963 revised reissue with Neugebauer's corrections is not this text.)
-
 ---
 
 DES  CLAUDIUS  PTOLEMÄUS 

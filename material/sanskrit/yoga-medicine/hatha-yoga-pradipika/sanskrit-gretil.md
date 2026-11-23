@@ -5,9 +5,7 @@ edition: GRETIL e-text, source edition not named in the header
 translator: none
 year: n.d. (15th c. text)
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_svAtmArAma-haThayogapradIpikA.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header.
-text_status: Clean IAST e-text, verse-numbered hyp_1.1 etc.
 ---
 
 Svātmārāma: Haṭhayogapradīpikā

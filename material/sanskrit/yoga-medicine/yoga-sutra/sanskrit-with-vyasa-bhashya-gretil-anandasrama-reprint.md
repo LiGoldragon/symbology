@@ -5,9 +5,7 @@ edition: GRETIL e-text (Muneo Tokunaga) of Anandasrama Sanskrit Series 47, 1978 
 translator: none
 year: 1904 source
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-yogasUtra-with-bhASya-alt.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header. Source edition 1904 (reprint 1978).
-text_status: IAST e-text with morphological dots (Tokunaga markup), readable.
 ---
 
 Patañjali: Yogasūtra with Bhāṣya

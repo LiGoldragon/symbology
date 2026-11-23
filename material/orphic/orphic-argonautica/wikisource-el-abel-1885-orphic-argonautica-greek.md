@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1885 (edition); transcription made by Wikisource volunteers
 - **Read from:** https://el.wikisource.org/wiki/Ορφέως_Αργοναυτικά (rendered page text through the MediaWiki API, action=parse)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** The work and Abel's 1885 text are public domain (Abel died 1889). The Wikisource transcription is offered by Wikisource under CC BY-SA 4.0 (attribution to the Greek Wikisource contributors; share-alike).
-- **Text status:** Clean proofread Greek text, polytonic, converted from HTML to plain text; line numbers stand at the line ends as Abel gives them; the page header and source note of Wikisource are kept at the head.
-
 ---
 
 Ὀρφέως Ἀργοναυτικά

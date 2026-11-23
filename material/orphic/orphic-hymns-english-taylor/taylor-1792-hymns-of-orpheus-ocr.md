@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor (English verse)
 - **Year:** 1792
 - **Read from:** https://archive.org/download/bim_eighteenth-century_the-hymns-of-orpheus-tr_1792/bim_eighteenth-century_the-hymns-of-orpheus-tr_1792_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1792; Taylor died 1835).
-- **Text status:** OCR text of a microfilm scan, kept raw.
-
 ---
 
 _ 

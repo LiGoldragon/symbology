@@ -5,9 +5,7 @@ translator: none (Sanskrit with Sanskrit commentary)
 edition: Bibliotheca Indica no. 79, Calcutta, Baptist Mission Press, 1859 (the archive.org item is dated 1859; GRETIL cites 1854 as a first issue)
 year: 1859
 source_url: https://archive.org/details/india.history.resource.41007
-date_fetched: 2026-11-21
 licence: public domain. Basis: Hall d. 1901; Calcutta 1859; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR with errors (the head of the file is the library stamp and title page, read as mixed script)
 ---
 
 00044392 

@@ -6,10 +6,7 @@
 - **Translator:** Alexander William Mair (1875-1928)
 - **Year:** 1908
 - **Read from:** https://archive.org/download/hesiodpoemsandf01mairgoog/hesiodpoemsandf01mairgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain in the United States (published 1908) and in the United Kingdom (Mair died 1928; more than 70 years). Google asks for non-commercial use of its scans; the underlying book is public domain.
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 

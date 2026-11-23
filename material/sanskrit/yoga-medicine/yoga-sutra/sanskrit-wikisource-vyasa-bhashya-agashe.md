@@ -5,9 +5,7 @@ edition: Wikisource sa, after the Agashe edition (Anandasrama, Pune)
 translator: none
 year: 1904 source
 source_url: https://sa.wikisource.org/wiki/योगसूत्राणि_(भाष्यसहितम्)
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). Wikisource transcription (contributors, CC BY-SA 4.0); the edition transcribed is not stated on the page.
-text_status: Devanagari transcription.
 ---
 
 <!-- wikisource page: योगसूत्राणि (भाष्यसहितम्) -->

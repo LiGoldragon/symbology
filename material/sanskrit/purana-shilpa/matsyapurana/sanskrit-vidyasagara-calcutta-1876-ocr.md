@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Calcutta: Sarasvati Press, 1876 (as the Internet Archive title gives it); edited (samskrtya prakasitam) by Sri Jivananda Vidyasagara Bhattacharya; eGangotri digitisation (Nepal Sanskrit University copy). The graha passage (ch. 93) can be found by searching for «नवग्रहमखः».
 year: 1876
 source_url: https://archive.org/download/vnih-matsya-purana-by-veda-vyasa-edited-by-jibananda-vi/Matsya%20Purana%20By%20Veda%20Vyasa%20Edited%20By%20Jibananda%20Vidyasagar%20Sanskrit%20Purana%20Kolkata%201876%20-%20Saraswati%20Press_djvu.txt (item page https://archive.org/details/vnih-matsya-purana-by-veda-vyasa-edited-by-jibananda-vi)
-date_fetched: 2026-11-21
 licence: Public domain. Published Calcutta 1876.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 Mh

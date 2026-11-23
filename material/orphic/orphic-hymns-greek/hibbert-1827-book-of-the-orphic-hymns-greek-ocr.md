@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1827
 - **Read from:** https://archive.org/download/bookorphichymns00hibbgoog/bookorphichymns00hibbgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1827).
-- **Text status:** OCR text of a scan, kept raw. The OCR read the capital Greek poorly in the front matter (the Google notice appears as Greek-letter noise) and the hymn text is recognisable but corrupt; the Greek of the hymns is better had from Abel 1885 and Hermann 1805 in this directory.
-
 ---
 
 Οου§ΐ£ 

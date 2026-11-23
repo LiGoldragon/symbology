@@ -5,9 +5,7 @@ translator: Manmatha Nath Dutt (Shastri)
 edition: Edited and published by Manmatha Nath Dutt (Shastri), M.A., Rector, Keshub Academy; Calcutta: Society for the Resuscitation of Indian Literature, 1908 (title page as read; Harvard College Library copy scanned by Google). The Internet Archive record is garudapuranam00duttgoog; a three-volume DLI copy of the same work was not kept.
 year: 1908
 source_url: https://archive.org/download/garudapuranam00duttgoog/garudapuranam00duttgoog_djvu.txt (item page https://archive.org/details/garudapuranam00duttgoog)
-date_fetched: 2026-11-21
 licence: Public domain. Public domain in the United States by age (first published before 1931). Dutt died 1912.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. The file opens with the Google Books boilerplate.
 ---
 
 Google

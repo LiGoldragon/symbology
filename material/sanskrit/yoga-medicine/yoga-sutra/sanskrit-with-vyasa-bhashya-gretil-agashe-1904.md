@@ -5,9 +5,7 @@ edition: GRETIL e-text (Philipp A. Maas) of Kasinatha Sastri Agashe, Anandasrama
 translator: none
 year: 1904 source
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-yogasUtra-with-bhASya.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header. Source edition 1904 (public domain).
-text_status: Clean IAST e-text.
 ---
 
 Patañjali: Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)

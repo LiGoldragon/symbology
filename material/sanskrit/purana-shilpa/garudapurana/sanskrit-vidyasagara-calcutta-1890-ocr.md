@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Edited by Jivananda Vidyasagara Bhattacharya; Calcutta: Sarasvati Press, 1890 as the Internet Archive record gives it (item kakp_..., a second scan of the same press is jkwf_..., 393k characters, bound with the Lingapurana, not taken)
 year: 1890
 source_url: https://archive.org/download/kakp_garuda-purana-jibananda-vidyasagara-1890-jivananda-vidyasagar-calcutta/GarudaPurana-JibanandaVidyasagara1890%20-%20Jivananda%20Vidyasagar%20Calcutta_djvu.txt (item page https://archive.org/details/kakp_garuda-purana-jibananda-vidyasagara-1890-jivananda-vidyasagar-calcutta)
-date_fetched: 2026-11-21
 licence: Public domain. Published Calcutta 1890.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. Devanagari recognition is moderate; verses mostly readable.
 ---
 
 26५76

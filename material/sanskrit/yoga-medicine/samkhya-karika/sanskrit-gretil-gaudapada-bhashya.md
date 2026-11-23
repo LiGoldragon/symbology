@@ -5,9 +5,7 @@ edition: GRETIL e-text (Dhaval Patel) from Colebrooke-Wilson, The Sankhya Karika
 translator: none (translation in the source work is Colebrooke and Wilson)
 year: 1887 source
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_IzvarakRSNa-sAMkhyakArikA-comm2.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header. Source edition 1887 (public domain).
-text_status: Clean IAST e-text, Gaudapada commentary.
 ---
 
 Īśvarakṛṣṇa: Sāṃkhyakārikā with Gauḍapāda's Bhāṣya

@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1903
 - **Read from:** https://archive.org/download/proclidiadochii04procgoog/proclidiadochii04procgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1903; Diehl died 1944, public domain in his country since 2015).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 

@@ -5,9 +5,7 @@ edition: Digital Library of India scan, Veer Sewa Mandir, Delhi (imprint not rea
 translator: Hindi (unnamed)
 year: 1893
 source_url: https://archive.org/details/dli.ernet.429198
-date_fetched: 2026-11-21
 licence: Public domain: DLI date 1893. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Sanskrit with a prose commentary (Jyotsna, by its wording); imprint not verified.
 ---
 
 20008 2220 28828 20% 222 2226286 562६9 2४ 92१३४ 2४ ४ 22

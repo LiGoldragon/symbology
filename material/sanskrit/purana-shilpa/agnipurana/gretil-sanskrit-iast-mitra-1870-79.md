@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: GRETIL e-text, data entry by Jun Takashima, version of 2020-07-31, from Rajendralal Mitra (ed.), Agni Purana, Calcutta: Asiatic Society of Bengal, 1870-1879, 3 vols. (Bibliotheca Indica, 65)
 year: 1870-1879 (edition); e-text 2020
 source_url: http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_agnipurANa.txt (GRETIL, Goettingen Register of Electronic Texts in Indian Languages)
-date_fetched: 2026-11-21
 licence: Public domain. The base edition is of 1870-79 (Mitra died 1891). Distributed by GRETIL under CC BY-NC-SA 4.0 (the file states: provided to GRETIL in good faith that no copyright rights have been infringed). The e-text is transcribed from the public domain edition.
-text_status: GRETIL plain-text transformation, unchanged (IAST transliteration; GRETIL header block, structure notes and licence statement are kept at the head of the text below).
 ---
 
 Agnipurāṇa

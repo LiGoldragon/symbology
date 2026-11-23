@@ -5,9 +5,7 @@ translator: A Taluqdar of Oudh (anonymous)
 edition: Sacred Books of the Hindus vol. XVII, part I, edited by Major B. D. Basu, I.M.S.; Allahabad: Panini Office, Bhuvaneswari Asrama, Bahadurganj; printed by Apurva Krishna Bose at the Indian Press, 1916. English with the translator's notes.
 year: 1916
 source_url: https://archive.org/download/in.ernet.dli.2015.274264/2015.274264.The-Matsya_djvu.txt (item page https://archive.org/details/in.ernet.dli.2015.274264)
-date_fetched: 2026-11-21
 licence: Public domain. Public domain in the United States by age (first published before 1931). Translator anonymous.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 THE

@@ -5,9 +5,7 @@ edition: Calcutta, 1885 (ed. Avinashchandra)
 translator: none
 year: 1885
 source_url: https://archive.org/details/india.history.resource.89686
-date_fetched: 2026-11-21
 licence: Public domain: published Calcutta 1885. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 66

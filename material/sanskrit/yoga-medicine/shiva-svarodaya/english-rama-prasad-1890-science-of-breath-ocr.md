@@ -5,9 +5,7 @@ edition: The Theosophical Publishing Society, London (also Calcutta, New York), 
 translator: Rama Prasad
 year: 1890
 source_url: https://archive.org/details/in.ernet.dli.2015.42654
-date_fetched: 2026-11-21
 licence: Public domain: published 1890. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 The Science of Breath

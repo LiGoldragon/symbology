@@ -5,9 +5,7 @@ translator: none (English original)
 edition: Wikisource transcription (marked there 'no source'); first printed in The Equinox Vol. I no. 6 (1911) as Liber XC
 year: 1911
 source_url: https://en.wikisource.org/wiki/Liber_Tzaddi_vel_Hamus_Hermeticus (action=raw)
-date_fetched: 2026-11-21
 licence: public domain. Basis: Crowley died 1947 (UK public domain since 1 Jan 2018, life plus 70 years), first published 1911 in London (US public domain by age, published before 1930); Wikisource tags it PD/US 1947. The transcription is Wikisource's (CC BY-SA 4.0 for the wiki text where original); the work is public domain. Caveat: Wikisource gives no scan source, so the transcription is not checked against the 1911 print here.
-text_status: wikitext markup stripped to plain text (header template, category, small-caps template); nothing else changed
 ---
 
 LIBER TZADDI VEL HAMUS HERMETICUS SUB FIGURÂ XC

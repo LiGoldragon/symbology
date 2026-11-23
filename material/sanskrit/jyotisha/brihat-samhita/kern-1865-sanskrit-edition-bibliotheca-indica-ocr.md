@@ -5,9 +5,7 @@ translator: none (Sanskrit; English preface by Kern)
 edition: Bibliotheca Indica, New Series nos. 51, 54, 59, 63, 68, 72, 73, Calcutta, Baptist Mission Press, 1865; Asiatic Society copy via archive.org
 year: 1865
 source_url: https://archive.org/details/brihatsamhitavarahamihirabruhatkernh.asiaticsociety1865_754_d
-date_fetched: 2026-11-21
 licence: public domain. Basis: Kern d. 1917; Calcutta 1865; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari recognition is poor in many places; use the GRETIL file for a clean Sanskrit text
 ---
 
 एाणिाः64 प्र04 ; 

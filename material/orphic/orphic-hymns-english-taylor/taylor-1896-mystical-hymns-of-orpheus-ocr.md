@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor (English verse)
 - **Year:** 1896
 - **Read from:** https://archive.org/download/mysticalhymnsofo00unse/mysticalhymnsofo00unse_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1896; Taylor died 1835).
-- **Text status:** OCR text of a scan, kept raw.
-
 ---
 
 fae 

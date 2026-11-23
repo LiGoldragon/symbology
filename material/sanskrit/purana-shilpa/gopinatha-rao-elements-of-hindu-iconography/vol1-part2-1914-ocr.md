@@ -5,9 +5,7 @@ translator: none (English, with Sanskrit passages in transliteration)
 edition: Madras: The Law Printing House, Mount Road, 1914 (UP State Museum, Lucknow copy, digitised by Sarayu Foundation Trust and eGangotri). Contains pp. 304-323, the nine grahas, and the appendices and index
 year: 1914
 source_url: https://archive.org/download/ZmUE_elements-of-hindu-iconography-vol.-1-part-2-by-t.-a.-gopinath-1914-the-law-printing-house/Elements%20of%20Hindu%20Iconography%20Vol.%201%20(Part-2)%20by%20T.%20A.%20Gopinath%201914%20-%20The%20Law%20Printing%20House_djvu.txt (item page https://archive.org/details/ZmUE_elements-of-hindu-iconography-vol.-1-part-2-by-t.-a.-gopinath-1914-the-law-printing-house)
-date_fetched: 2026-11-21
 licence: Public domain. Published Madras 1914/1916; Gopinatha Rao died 1919 (public domain in India and in the United States).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 COE NM f

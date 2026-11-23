@@ -5,9 +5,7 @@ edition: Mumbai, Prabodharatnakara Press, Shaka 1817 (1895), Wellcome Library sc
 translator: Hindi
 year: 1895
 source_url: https://archive.org/details/b30095013
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1895. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 १6 #

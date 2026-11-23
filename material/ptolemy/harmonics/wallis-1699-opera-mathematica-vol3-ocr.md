@@ -6,10 +6,7 @@
 - **Translator:** John Wallis (Latin)
 - **Year:** 1699
 - **Read from:** https://archive.org/details/bub_gb_QQjv6qFa-QoC (file bub_gb_QQjv6qFa-QoC_djvu.txt); scan PDF kept beside it (wallis-1699-opera-mathematica-vol3-scan.pdf)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the work is Ptolemy (2nd century); the edition, translation and print are of the date given, and the editor/translator/printer died long before 1955 (worldwide public domain by age). The digitisation carries no claim of its own that was found; the Internet Archive item states it as public domain / Public Domain Mark. (the item carries the Public Domain Mark.)
-- **Text status:** Raw machine OCR from Google, not corrected. Latin passages mostly readable; the Greek (Ptolemy, Porphyry, Bryennius) is badly garbled and cannot be read; the scan PDF is the witness for the Greek. Includes the Latin of Ptolemy's Harmonics (three books), Porphyry's Commentary (Greek and Latin) and Bryennius's Harmonics.
-
 ---
 
 

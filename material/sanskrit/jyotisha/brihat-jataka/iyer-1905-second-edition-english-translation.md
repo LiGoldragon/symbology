@@ -5,9 +5,7 @@ translator: N. Chidambaram Aiyar
 edition: Second edition, revised and enlarged, Madras, Thompson & Co., Theosophist Office, Adyar, 1905
 year: 1905
 source_url: https://archive.org/details/brihatjataka00varaiala
-date_fetched: 2026-11-21
 licence: public domain. Basis: translator N. Chidambaram Aiyar; Madras 1905; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here
 ---
 
 ARYAN    MISCELLANY, 

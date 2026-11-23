@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1922
 - **Read from:** https://archive.org/download/orphicorumfragme00orphuoft/orphicorumfragme00orphuoft_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain in the US (published 1922); Kern died 1942, so the text is public domain in the author's country (life plus 70, from 1 January 2013).
-- **Text status:** OCR text of a scan, kept raw; running heads and page numbers left. The machine reading of the Greek is poor (Greek words come out as Latin-letter noise); the Latin of the apparatus and testimonia reads well. The scan itself is kept as the sibling file kern-1922-orphicorum-fragmenta-scan.pdf, to be read where the Greek matters.
-
 ---
 
 ORPHICORVM  FRAGMENTA 

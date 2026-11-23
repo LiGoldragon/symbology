@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Wikisource, मयमतम्/अध्याय ०१-०५ to ३१-३६, transcribed from "मयमतम् TG Sastri 1919.pdf" (the Trivandrum Sanskrit Series no. 65 of T. Ganapati Sastri, 1919)
 year: 1919 (edition)
 source_url: https://sa.wikisource.org/wiki/मयमतम् (pages fetched with action=raw)
-date_fetched: 2026-11-21
 licence: Public domain. The 1919 Trivandrum edition (Ganapati Sastri d. 1926) transcribed on Wikisource. Caveat: not proofed against the print here.
-text_status: Wikisource page text fetched with action=raw (about 7 pages) and converted by script: wiki templates, header boxes, poem/span/table tags and page links removed, line breaks kept, footnote references kept in square brackets as [note: ...], headings written as Markdown "##". Verse text itself unchanged. Wikisource is a volunteer transcription, not proofed against the print here. 
 ---
 
 ## अध्याय ०१-०५

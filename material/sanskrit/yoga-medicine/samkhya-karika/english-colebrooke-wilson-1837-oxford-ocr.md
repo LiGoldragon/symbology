@@ -5,9 +5,7 @@ edition: Oxford, printed for the Oriental Translation Fund of Great Britain and 
 translator: Henry Thomas Colebrooke (karika); Horace Hayman Wilson (Gaudapada bhashya)
 year: 1837
 source_url: https://archive.org/details/sankhyakrikorme00cgoog
-date_fetched: 2026-11-21
 licence: Public domain: published 1837. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 Google

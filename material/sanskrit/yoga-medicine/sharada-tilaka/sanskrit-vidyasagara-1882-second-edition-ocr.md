@@ -5,9 +5,7 @@ edition: Calcutta, Sarasvati Press, 2nd edition, title page dated 1882 as read b
 translator: none
 year: 1882
 source_url: https://archive.org/details/SaradaTilakaTantra
-date_fetched: 2026-11-21
 licence: Public domain: published Calcutta 1882 or 1892, before 1930. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Text of the Tantra without the commentary; chapter 1 holds the element mandalas.
 ---
 
 सारटातिलकम |

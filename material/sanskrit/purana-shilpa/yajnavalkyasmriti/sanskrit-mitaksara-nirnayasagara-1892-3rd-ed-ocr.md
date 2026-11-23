@@ -6,9 +6,7 @@ commentator: Vijnanesvara, Mitaksara (the traditional commentary)
 edition: Bombay: Nirnayasagara Press, third edition, Saka 1813 (1892 CE) as the title page reads; editor named on the title page is not legible in the OCR. The graha chapter (1.293-308) can be found by searching for the first verse «ताम्रकात्».
 year: 1892
 source_url: https://archive.org/download/in.ernet.dli.2015.405630/2015.405630.Yajnavalkyasmriti-Third_djvu.txt (item page https://archive.org/details/in.ernet.dli.2015.405630)
-date_fetched: 2026-11-21
 licence: Public domain. Published Bombay 1892; the work is of the early centuries CE.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 (१/0 ९१। 1

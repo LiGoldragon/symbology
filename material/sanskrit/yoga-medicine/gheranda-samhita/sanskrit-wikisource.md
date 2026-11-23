@@ -5,9 +5,7 @@ edition: Wikisource sa, chapters 1-7 (edition not stated)
 translator: none
 year: n.d. (17th-18th c. text)
 source_url: https://sa.wikisource.org/wiki/घेरण्डसंहिता
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). Wikisource transcription (contributors, CC BY-SA 4.0); the edition transcribed is not stated on the page.
-text_status: Clean Devanagari transcription, wikitext header and poem tags removed; chapter pages concatenated, each preceded by a page comment.
 ---
 
 घटस्थ योगकथनम्।

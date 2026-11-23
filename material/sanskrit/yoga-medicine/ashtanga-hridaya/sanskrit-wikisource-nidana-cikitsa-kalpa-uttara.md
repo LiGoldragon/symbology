@@ -5,9 +5,7 @@ edition: Wikisource sa (edition not stated)
 translator: none
 year: n.d.
 source_url: https://sa.wikisource.org/wiki/अष्टाङ्गहृदयम्
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). Wikisource transcription (contributors, CC BY-SA 4.0); the edition transcribed is not stated on the page.
-text_status: Devanagari transcription; Sutrasthana is in the GRETIL file, Sarirasthana in sarirasthana file.
 ---
 
 <!-- wikisource page: अष्टाङ्गहृदयम् -->

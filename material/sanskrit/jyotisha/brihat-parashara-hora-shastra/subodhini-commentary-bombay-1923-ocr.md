@@ -5,9 +5,7 @@ translator: none (Sanskrit; Hindi bhāṣā by an editor not named in the OCR re
 edition: Bombay, Khemraj Shrikrishnadas, 1923 (archive.org item "Brihat Parashara Hora Shastra Subodhini Commentary Shridhara by Parashara, Sanskrit and Hindi, Mumbai 1923")
 year: 1923
 source_url: https://archive.org/details/reoo-brihat-parashara-hora-shastra-subodhini-commentary
-date_fetched: 2026-11-21
 licence: public domain on the basis of US publication-before-1930 rule (Bombay 1923); commentary author and Hindi editor not identified; Indian copyright term not checked
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR with errors, readable in places
 ---
 
 rf Pog NS शिका: ड 

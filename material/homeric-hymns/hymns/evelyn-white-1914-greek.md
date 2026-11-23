@@ -6,11 +6,7 @@
 - **Translator:** none (original Greek)
 - **Year:** 1914 (edition)
 - **Read from:** https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0013/tlg0NN/tlg0013.tlg0NN.perseus-grc2.xml (NN = 01 to 33; each hymn file named in its section)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the Greek text and Evelyn-White's translation were published in 1914 (Hugh G. Evelyn-White, 1884-1924, died more than 70 years ago), so both are public domain in the United States (published before 1931) and in the United Kingdom/author's country. Perseus's own TEI encoding of the text is offered under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), which allows redistribution; credit: Perseus Digital Library, Tufts University, https://www.perseus.tufts.edu/ (source repository PerseusDL/canonical-greekLit).
-- **Hymns:** 33 (Evelyn-White numbering: 1 Dionysus ... 33 Dioscuri); 2342 line elements in all
-- **Format note:** Marks as rendered from the Perseus TEI tags: ⟨…⟩ text supplied by the editor (`supplied`/`add`); ⟦…⟧ text the TEI marks as deleted (`del`); […] inside a line, text the TEI marks as surplus or interpolated (`surplus`), and a bare […] a lacuna (`gap`). A `choice` of sic/corr prints the corrected reading with a note. Line numbers are those of the source file. The hymn titles in the section headings follow Evelyn-White's numbering; the Perseus files vary in their own titles for hymns 29, 32 and 33.
-
 ---
 
 ## Hymn 1. To Dionysus

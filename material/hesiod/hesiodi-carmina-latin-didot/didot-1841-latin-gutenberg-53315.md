@@ -6,7 +6,6 @@
 - **Translator:** not named in the Gutenberg transcription (the Latin literal version printed beside the Greek in the Didot edition of 1841)
 - **Year:** 1841
 - **Read from:** https://gutenberg.pglaf.org/5/3/3/1/53315/53315-0.txt (a mirror of https://www.gutenberg.org/ebooks/53315)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1841). Public domain in the United States (published before 1931). Project Gutenberg's licence header and footer have been removed from this copy, as the licence allows for a work in the public domain in the United States; the text between its START and END markers is kept unchanged.
 
 ---

@@ -5,9 +5,7 @@ edition: Madras, G. A. Natesan & Co., for V. C. Seshacharri, 1899
 translator: Ganganatha Jha
 year: 1899
 source_url: https://archive.org/details/in.ernet.dli.2015.99618
-date_fetched: 2026-11-21
 licence: Public domain: published Madras 1899; this is the early translation Jha revised for the 1942 Poona edition. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 LilK

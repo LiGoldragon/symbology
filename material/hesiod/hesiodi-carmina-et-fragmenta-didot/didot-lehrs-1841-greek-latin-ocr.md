@@ -6,10 +6,7 @@
 - **Translator:** Latin literal version printed beside the Greek (not named in the OCR text); Greek: none
 - **Year:** 1841
 - **Read from:** https://archive.org/download/hesiodoupoiemata00hesi/hesiodoupoiemata00hesi_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1841; Lehrs died 1843, Dübner 1867).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; running heads, page numbers, line-end hyphens and recognition errors, especially in accents and breathings of the Greek, left as they are). With the Rzach Teubner file (hesiod/hesiodi-carmina-rzach-teubner-1908/) it holds the Greek of the fragments of Hesiod in this library (Evelyn-White's fragments are English only). Quality: the Greek is readable with frequent accent and breathing errors (x for χ, etc.), the Latin version is clean; the clean Greek of the three complete poems is in the Perseus-based files of this library.
-
 ---
 
 eui a, ym 3 

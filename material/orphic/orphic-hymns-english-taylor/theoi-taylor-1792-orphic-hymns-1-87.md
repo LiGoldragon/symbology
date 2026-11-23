@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor (English verse, 1792)
 - **Year:** 1792 (web edition 2000s)
 - **Read from:** https://www.theoi.com/Text/OrphicHymns1.html and https://www.theoi.com/Text/OrphicHymns2.html
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (Taylor died 1835; the 1792 text). The Theoi page layout and its editorial brackets are Theoi's and are not claimed here; the page is kept as converted text.
-- **Text status:** Plain text converted from the HTML of the two pages, page 1 first, then page 2; navigation and advertisement text at the head and foot of each page left in.
-
 ---
 
 ORPHIC HYMNS 1-40 - Theoi Classical Texts Library

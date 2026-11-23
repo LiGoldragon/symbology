@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Wikisource, pages नाट्यशास्त्रम्/अध्यायः १ to ३७ (page headers read "भरतमुनिप्रणीतं नाट्यशास्त्रम्"); base print edition not stated on the pages
 year: transcription of recent years; text of the early centuries CE
 source_url: https://sa.wikisource.org/wiki/नाट्यशास्त्रम् (pages fetched with action=raw)
-date_fetched: 2026-11-21
 licence: Public domain text, transcribed on Wikisource (sa.wikisource.org), where only public domain or freely licensed works are admitted (the wiki's own additions CC BY-SA 4.0). The base print edition is not stated on the pages. Caveat: not proofed against the print.
-text_status: Wikisource page text fetched with action=raw (about 37 pages) and converted by script: wiki templates, header boxes, poem/span/table tags and page links removed, line breaks kept, footnote references kept in square brackets as [note: ...], headings written as Markdown "##". Verse text itself unchanged. Wikisource is a volunteer transcription, not proofed against the print here. 
 ---
 
 ## अध्यायः १

@@ -5,9 +5,7 @@ edition: GRETIL e-text (Dhaval Patel) from H. Sarma, Jayamangala nama Samkhyasap
 translator: none
 year: 1926 source
 source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_IzvarakRSNa-sAMkhyakArikA-comm3.txt
-date_fetched: 2026-11-21
 licence: Source work ancient (public domain). GRETIL e-text, distributed under CC BY-NC-SA 4.0 (non-commercial, share-alike, attribution to GRETIL); no modern edition cited in the file header. Source edition 1926 (Calcutta, before 1930).
-text_status: Clean IAST e-text.
 ---
 
 Īśvarakṛṣṇa: Sāṃkhyakārikā with Śaṃkara's Jayamaṅgalā commentary

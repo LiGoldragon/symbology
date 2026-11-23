@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Bombay: Laxmi Venkateshwar Mudranalay (Venkateshwar Steam Press), as the Digital Library of India record gives it; the DLI record dates it 1929 (a Venkateshwar Press edition of the Vishnudharmottara is of 1912 as I recall; the print date was not read from the OCR). About 1000 pages; with footnote readings.
 year: 1929 per the DLI record (print date unverified)
 source_url: https://archive.org/download/in.ernet.dli.2015.326824/2015.326824.Sri-Vishnu_djvu.txt (item page https://archive.org/details/in.ernet.dli.2015.326824)
-date_fetched: 2026-11-21
 licence: Public domain. Published at Bombay not later than 1929 (US public domain by age).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. The Devanagari recognition is poor to moderate (conjuncts and punctuation damaged; the verses are partly readable). The clean transcription of Khanda III is the Wikisource file in the same directory.
 ---
 
 शि

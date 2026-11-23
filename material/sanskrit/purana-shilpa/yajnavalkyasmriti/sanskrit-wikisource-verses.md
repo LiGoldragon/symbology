@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Wikisource, याज्ञवल्क्यस्मृतिः/आचाराध्यायः, /व्यवहाराध्यायः, /प्रायश्चित्ताध्यायः, each prakarana a page; the base edition is not stated on the pages. The Wikisource pages याज्ञवल्क्यस्मृतिः (सटीका) (1936 scan with commentary) and (मिताक्षरव्याख्यासहिता) are page-index stubs and carry no text here
 year: transcription of recent years
 source_url: https://sa.wikisource.org/wiki/याज्ञवल्क्यस्मृतिः (pages fetched with action=raw)
-date_fetched: 2026-11-21
 licence: Public domain text, transcribed on Wikisource (sa.wikisource.org), where only public domain or freely licensed works are admitted (the wiki's own additions CC BY-SA 4.0). The base print edition is not stated on the pages. Caveat: not proofed against the print.
-text_status: Wikisource page text fetched with action=raw (about 44 pages) and converted by script: wiki templates, header boxes, poem/span/table tags and page links removed, line breaks kept, footnote references kept in square brackets as [note: ...], headings written as Markdown "##". Verse text itself unchanged. Wikisource is a volunteer transcription, not proofed against the print here. Pages are ordered by their first verse number (adhyaya.verse).
 ---
 
 ## उपोद्घातप्रकरणम्

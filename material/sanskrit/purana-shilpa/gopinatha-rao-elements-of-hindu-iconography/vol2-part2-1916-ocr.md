@@ -5,9 +5,7 @@ translator: none (English, with Sanskrit passages in transliteration)
 edition: Madras: The Law Printing House, Mount Road, 1916 (Digital Library of India copy 2015.506672); with the index
 year: 1916
 source_url: https://archive.org/download/in.ernet.dli.2015.506672/2015.506672.Elements-Of_djvu.txt (item page https://archive.org/details/in.ernet.dli.2015.506672)
-date_fetched: 2026-11-21
 licence: Public domain. Published Madras 1914/1916; Gopinatha Rao died 1919 (public domain in India and in the United States).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 10 78 9 9

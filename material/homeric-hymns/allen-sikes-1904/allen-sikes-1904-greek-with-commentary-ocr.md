@@ -6,10 +6,7 @@
 - **Translator:** none (edition of the Greek by Thomas W. Allen and E. E. Sikes)
 - **Year:** 1904
 - **Read from:** https://archive.org/download/homerichymnsedit00homeuoft/homerichymnsedit00homeuoft_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1904; Sikes died 1940 and Allen 1950, so both are more than 70 years dead). This is the 1904 edition, not the 1936 Allen-Halliday-Sikes second edition, which is still in copyright and is not included.
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 

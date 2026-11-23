@@ -6,9 +6,7 @@ commentator: tika (Sanskrit/vernacular commentary printed with the verses; its a
 edition: Bombay (Mumbai): Nirnaya Sagara Press, 1888 per the Internet Archive record (editor Harimasa, per the title; Nepal Sanskrit University, Balmeeki Campus copy, digitised by eGangotri)
 year: 1888
 source_url: https://archive.org/download/didb_garuda-purana-saroddhara-satika-by-naunidhirama-editor-harimasa-sanskrit-pu/Garuda%20Purana%20Saroddhara%20Satika%20By%20Naunidhirama%20Editor%20Harimasa%20Sanskrit%20Puranas%20Pothi%20Illustrated%20Mumbai%201888%20-%20Nirnaya%20Sagara%20Press_djvu.txt (item page https://archive.org/details/didb_garuda-purana-saroddhara-satika-by-naunidhirama-editor-harimasa-sanskrit-pu)
-date_fetched: 2026-11-21
 licence: Public domain. Published Bombay 1888.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. Devanagari recognition is moderate; the file opens with eGangotri digitiser stamps.
 ---
 
 | Nepal Sanskrit University, Balmeeki Campus, kathmajdu

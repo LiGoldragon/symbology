@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1899
 - **Read from:** https://archive.org/download/kroll-procli-diadochi-in-platonis-rem-pvblicam-commentarii-gr-t.-1-1899/Kroll%20-%20Procli%20Diadochi%20in%20Platonis%20Rem%20pvblicam%20commentarii%2C%20%5Bgr%5D%2C%20t.1%2C%201899_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1899; Kroll died 1939).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 PROCLI DIADOCHI 

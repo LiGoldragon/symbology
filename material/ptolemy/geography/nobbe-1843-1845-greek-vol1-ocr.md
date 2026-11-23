@@ -6,10 +6,7 @@
 - **Translator:** none (Greek)
 - **Year:** 1843
 - **Read from:** https://archive.org/details/claudiiptolemae03ptolgoog (file claudiiptolemae03ptolgoog_djvu.txt); the same volumes I and III are also at https://archive.org/details/india.history.resource.53679 and 53680
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the work is Ptolemy (2nd century); the edition and print are of the date given, and the editor/translator/printer died long before 1955 (worldwide public domain by age). The digitisation carries no claim of its own that was found. (Nobbe d. 1878.)
-- **Text status:** Raw machine OCR from Google, not corrected; Greek garbled in places, Latin preface readable; the coordinate tables are partly garbled. Volume number identified from the running heads ("Tom. II", "Tom. III") and the Google description.
-
 ---
 
 Google 

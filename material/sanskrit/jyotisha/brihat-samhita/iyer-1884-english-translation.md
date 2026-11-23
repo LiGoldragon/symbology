@@ -5,9 +5,7 @@ translator: N. Chidambaram Iyer
 edition: Madura, South Indian Press, 1884, Google Books scan (Google preamble kept at the head of the text)
 year: 1884
 source_url: https://archive.org/details/bihatsahitvarah00iyergoog
-date_fetched: 2026-11-21
 licence: public domain. Basis: translator N. Chidambaram Iyer, Madura 1884; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here
 ---
 
 Google 

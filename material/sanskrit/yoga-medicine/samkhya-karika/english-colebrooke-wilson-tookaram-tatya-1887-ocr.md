@@ -5,9 +5,7 @@ edition: Bombay, Tookaram Tatya, printed at the Subodha-Prakash Press, 1887 (rei
 translator: Colebrooke; Wilson
 year: 1887 (reissue of 1837)
 source_url: https://archive.org/details/sankhyakarika00isvaiala
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1887. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 ^Mu;  tiait»

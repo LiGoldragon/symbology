@@ -5,9 +5,7 @@ edition: Sacred Books of the Hindus vol. XV, ed. B. D. Basu, Allahabad, Panini O
 translator: Srisa Chandra Vasu
 year: 1914-15
 source_url: https://archive.org/details/india.history.resource.88861
-date_fetched: 2026-11-21
 licence: Public domain: published Allahabad 1914-15; Vasu d. 1919. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. The Devanagari lines in this scan are unreadable; the English is clean.
 ---
 
 AUDA QTD AMT VE

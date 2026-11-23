@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor
 - **Year:** 1816
 - **Read from:** https://archive.org/download/taylor-theology-of-plato-en-t.-2-1816/Taylor%20-%20Theology%20of%20Plato%2C%20%5Ben%5D%2C%20t.2%2C%201816_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1816).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 

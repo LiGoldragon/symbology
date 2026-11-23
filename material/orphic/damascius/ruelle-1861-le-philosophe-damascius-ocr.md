@@ -6,10 +6,7 @@
 - **Translator:** none (Latin versions by the author)
 - **Year:** 1861
 - **Read from:** https://archive.org/download/lephilosophedama00ruel/lephilosophedama00ruel_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1861; Ruelle died 1912).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 Digitized by the Internet Archive 

@@ -5,9 +5,7 @@ translator: none (English, with Sanskrit passages in transliteration)
 edition: Madras: The Law Printing House, Mount Road, 1914 (Asiatic Society of Bombay copy, Dr. Geetha Ravikumar digitisation; Internet Archive item india.history.resource.94142); under the patronage of the Government of H. H. the Maharaja of Travancore
 year: 1914
 source_url: https://archive.org/download/india.history.resource.94142/94142_djvu.txt (item page https://archive.org/details/india.history.resource.94142)
-date_fetched: 2026-11-21
 licence: Public domain. Published Madras 1914/1916; Gopinatha Rao died 1919 (public domain in India and in the United States).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 TOU EV

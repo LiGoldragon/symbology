@@ -6,10 +6,7 @@
 - **Translator:** Frank Egleston Robbins
 - **Year:** 1940
 - **Read from:** Greek: Perseus Digital Library, https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0363/tlg007/tlg0363.tlg007.perseus-grc2.xml . English and notes: LacusCurtius (Bill Thayer), https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ptolemy/Tetrabiblos/home.html
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Greek part: CC BY-SA 4.0 (Perseus Digital Library; credit Perseus, https://www.perseus.tufts.edu/, and its source repository https://github.com/PerseusDL/canonical-greekLit). English part: US public domain by non-renewal of the 1940 copyright (basis: Thayer, LacusCurtius). See the headers of robbins-1940-english.md and robbins-1940-greek-perseus.md for the full statement; the Introduction and the 1980 editor's note are not in this file.
-- **Form:** Made by a script that pairs the two files chapter by chapter (the Greek and English texts have the same 63 chapter divisions). Nothing is added or changed in either text. Under each English chapter come the editor's notes cited there, copied from the notes list of the same LacusCurtius page. Markers are those of the two single-language files.
-
 ---
 
 ## Book 1, Chapter 1

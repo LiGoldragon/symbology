@@ -5,9 +5,7 @@ translator: Hendrik Kern
 edition: Journal of the Royal Asiatic Society of Great Britain and Ireland, New Series vols. 4 (1870), 5 (1871), 6 (1873), 7 (1875); the six instalments cut from the four volumes, in order; the serial ends at the end of vol. 7 with "To be continued" (chapter LXV onward, Signs of Goats, is in vol. 7); later instalments not in these volumes
 year: 1870-1875
 source_url: https://archive.org/details/journalofroyalas4187roya , .../journalofroyalas5187roya , .../journalofroyalas6187roya , .../journalofroyalas7187roya
-date_fetched: 2026-11-21
 licence: public domain. Basis: Kern d. 1917; published London 1870-1875; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; instalments cut by article headings and running heads, page headers and footnotes (with Sanskrit in OCR) left in; verify at the cut points
 ---
 
 =====

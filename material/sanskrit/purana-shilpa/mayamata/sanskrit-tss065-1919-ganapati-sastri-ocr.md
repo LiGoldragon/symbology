@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Trivandrum Sanskrit Series no. 65, edited by T. Ganapati Sastri; Trivandrum: Travancore Government Press, 1919 (the Internet Archive record gives 1919). The scan PDF is kept beside it.
 year: 1919
 source_url: https://archive.org/download/mayamataofmayamunitss65_353_y/Mayamata%20of%20Mayamuni%20TSS%2065_djvu.txt (item page https://archive.org/details/mayamataofmayamunitss65_353_y)
-date_fetched: 2026-11-21
 licence: Public domain. Published Trivandrum 1919 (US public domain by age); Ganapati Sastri died 1926.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. Devanagari recognition is moderate (verses mostly readable, conjuncts and punctuation damaged).
 ---
 
 ड 008 [04

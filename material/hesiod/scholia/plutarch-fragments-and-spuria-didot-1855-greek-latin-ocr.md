@@ -6,10 +6,7 @@
 - **Translator:** none (Greek with a Latin version)
 - **Year:** 1855
 - **Read from:** https://archive.org/download/ploutarchouapos00dbgoog/ploutarchouapos00dbgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1855).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; running heads, page numbers, line-end hyphens, the Google Books boilerplate where the scan has it, and recognition errors left as they are) and follows after the rule below. Quality: Greek readable with the usual accent errors (x for χ, etc.); the Latin readable. Only part of this volume concerns Hesiod; the whole volume is kept as the one file.
-
 ---
 
 Google 

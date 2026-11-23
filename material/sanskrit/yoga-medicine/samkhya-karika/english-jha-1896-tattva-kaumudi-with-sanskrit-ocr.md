@@ -5,9 +5,7 @@ edition: Bombay Theosophical Publication Fund, 1896 (printed with the Sanskrit t
 translator: Ganganatha Jha
 year: 1896
 source_url: https://archive.org/details/anenglishtransla00vaacuoft
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1896. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. The English translation and notes only; the Sanskrit text printed in the book was not captured by the OCR.
 ---
 
 ENGLISH  TRANSLATION,

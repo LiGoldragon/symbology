@@ -6,7 +6,6 @@
 - **Translator:** Charles Abraham Elton (1778-1853)
 - **Year:** 1815
 - **Read from:** https://gutenberg.pglaf.org/6/6/3/5/66350/66350-0.txt (a mirror of https://www.gutenberg.org/ebooks/66350)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1815; Elton died 1853). Public domain in the United States (published before 1931). Project Gutenberg's licence header and footer have been removed from this copy, as the licence allows for a work in the public domain in the United States; the text between its START and END markers is kept unchanged.
 
 ---

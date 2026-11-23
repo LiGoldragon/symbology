@@ -6,10 +6,7 @@
 - **Translator:** Thomas Parnell (1679-1718), George Chapman (c. 1559-1634), Percy Bysshe Shelley (1792-1822), William Congreve (1670-1729), Richard Hole (1746-1803); introductions by Henry Nelson Coleridge (1798-1843); Life of Homer translated by K. R. H. Mackenzie (1833-1886)
 - **Year:** 1872 (translations 1620s to 1820s)
 - **Read from:** https://archive.org/download/minorpoemsofhome00home/minorpoemsofhome00home_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1872; every translator died before 1890).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 Pass  PA^(^a?s 

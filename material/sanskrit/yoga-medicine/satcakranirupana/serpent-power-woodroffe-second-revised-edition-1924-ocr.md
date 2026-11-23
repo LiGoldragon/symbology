@@ -5,9 +5,7 @@ edition: Second revised edition, Ganesh & Co., Madras, 1924 (first edition Londo
 translator: Arthur Avalon (Sir John Woodroffe)
 year: 1919; 2nd ed. 1924
 source_url: https://archive.org/details/dli.ministry.06283
-date_fetched: 2026-11-21
 licence: Public domain: first published London 1919, second edition 1924, both before 1930; Woodroffe d. 1936. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Sanskrit verses partly legible in Devanagari; the English, Woodroffe's commentary and the Kalicharana gloss in translation are clean.
 ---
 
 THE SERPENT POWER

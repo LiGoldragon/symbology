@@ -5,9 +5,7 @@ edition: Bombay Theosophical Publication Fund, printed at the Tattva-Vivechaka P
 translator: Manilal Nabhubhai Dvivedi
 year: 1890
 source_url: https://archive.org/details/yogaSutraOfPatanjali
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1890. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 “Notes based “pon = eral auithentic

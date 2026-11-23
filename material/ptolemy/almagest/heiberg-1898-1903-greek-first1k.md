@@ -6,10 +6,7 @@
 - **Translator:** none (Greek)
 - **Year:** 1898-1903 (transcription 2017)
 - **Read from:** https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0363/tlg001/tlg0363.tlg001.1st1K-grc1.xml (TEI XML converted to Markdown by script; nothing summarised)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** The transcription is licensed CC BY-SA 4.0 (TEI header; credit Harvard College Library / First1KGreek, https://github.com/OpenGreekAndLatin/First1KGreek). The underlying edition is Heiberg's of 1898-1903 (Heiberg d. 1928): public domain. Tables of numbers and figures are given as text or as "[figure: ...]" markers.
-- **Text status:** Whole as transcribed: 13 books, each with its table of chapter titles. [p. N] is the page of Heiberg's edition.
-
 ---
 
 

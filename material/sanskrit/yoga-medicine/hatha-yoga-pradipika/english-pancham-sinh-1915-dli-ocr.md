@@ -5,9 +5,7 @@ edition: Panini Office, Allahabad, 1915
 translator: Pancham Sinh
 year: 1915
 source_url: https://archive.org/details/dli.csl.7087
-date_fetched: 2026-11-21
 licence: Public domain: published Allahabad 1915. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 THE

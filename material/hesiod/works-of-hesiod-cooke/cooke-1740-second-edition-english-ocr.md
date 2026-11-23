@@ -6,10 +6,7 @@
 - **Translator:** Thomas Cooke (1703-1756; "Mr. Cooke" on the title page)
 - **Year:** 1740 (first edition 1728)
 - **Read from:** https://archive.org/download/bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1740/bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1740_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1740; Cooke died 1756).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; line-ends, headers, running heads, page numbers and recognition errors left as they are) and follows after the rule below.
-
 ---
 
 4 

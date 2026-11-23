@@ -5,9 +5,7 @@ edition: Calcutta, Sarasvati Press, 1882, Jivananda Vidyasagara
 translator: none
 year: 1882
 source_url: https://archive.org/details/tjcn_sarada-tilaka-tantra-jibananda-vidyasagara-1892-alt-jivananda-vidyasagar-calcutta
-date_fetched: 2026-11-21
 licence: Public domain: published Calcutta 1882. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 सारदातिलकम |

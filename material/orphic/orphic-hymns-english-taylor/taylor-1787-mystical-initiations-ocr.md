@@ -6,10 +6,7 @@
 - **Translator:** Thomas Taylor (English verse)
 - **Year:** 1787
 - **Read from:** https://archive.org/download/bim_eighteenth-century_the-mystical-initiations_taylor-thomas_1787/bim_eighteenth-century_the-mystical-initiations_taylor-thomas_1787_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1787).
-- **Text status:** OCR text of a microfilm scan, kept raw.
-
 ---
 
 * 

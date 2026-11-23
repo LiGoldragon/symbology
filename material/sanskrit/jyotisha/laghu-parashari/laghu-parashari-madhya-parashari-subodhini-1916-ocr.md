@@ -5,9 +5,7 @@ translator: none (Sanskrit; Hindi by Achyutananda Sharma)
 edition: 1916 (archive.org item "Laghu Parashari and Madhya Parashari Subodhini and Hindi Tika, Achyutananda Sharma, Sanskrit Hindi, 1916, missing pages"; eGangotri scan)
 year: 1916
 source_url: https://archive.org/details/vqbf-laghu-parashari-and-madhya-parashari-subodhini-and
-date_fetched: 2026-11-21
 licence: public domain. Basis: editor Achyutananda Sharma; India 1916; Indian term not checked; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; some pages missing in the scan
 ---
 
 ह ही In Public Dome 

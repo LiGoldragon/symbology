@@ -6,10 +6,7 @@
 - **Translator:** John Wallis (Latin)
 - **Year:** 1682
 - **Read from:** https://archive.org/details/bim_early-english-books-1641-1700_-harmonicor_ptolomaeus-claudius_1682 (file bim_early-english-books-1641-1700_-harmonicor_ptolomaeus-claudius_1682_djvu.txt); scan PDF kept beside it, in three parts (wallis-1682-eebo-scan-part-N.pdf)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the work is Ptolemy (2nd century); the edition, translation and print are of the date given, and the editor/translator/printer died long before 1955 (worldwide public domain by age). The digitisation carries no claim of its own that was found; the Internet Archive item states it as public domain / Public Domain Mark.
-- **Text status:** Raw machine OCR, not corrected. The Latin text, Wallis's notes and the Appendix are mostly readable (long s read as "f" or "ſ"; diagrams and tables garbled). The Greek, set in Wallis's 17th-century type with ligatures, comes out as garbage; for the Greek use the scan PDFs, or Düring 1930 (restricted repository). Contains Book I (Liber Primus), Book II, Book III, notes, Appendix; ends "FINIS". No Porphyry commentary in this volume (Wallis gives it in 1699).
-
 ---
 
 = 

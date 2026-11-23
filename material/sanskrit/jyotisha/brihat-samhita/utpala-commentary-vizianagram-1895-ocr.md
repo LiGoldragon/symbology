@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Vizianagram Sanskrit Series no. 18, Benares, 1895 (title page of the scan: Brihat Samhita, Bhattotpala commentary, Sudhakara Dvivedi, 1895); Part 1 only
 year: 1895
 source_url: https://archive.org/details/brihatsamhitavarahamihirabruhatcommentaryofbhattotpalasudhakaradvivedipart1vss18_575_C
-date_fetched: 2026-11-21
 licence: public domain. Basis: editor Sudhākara Dvivedī, 19th-century scholar; Benares 1895; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR with errors; covers the first part of the work only
 ---
 
 2८816006 : 4990010210547 

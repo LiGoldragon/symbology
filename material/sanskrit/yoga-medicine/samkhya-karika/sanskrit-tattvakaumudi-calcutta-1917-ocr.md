@@ -5,9 +5,7 @@ edition: Edited by a Calcutta Government Sanskrit College professor (name garble
 translator: none
 year: 1917
 source_url: https://archive.org/details/SankhyaKarikaWithSankhyaTattvaKaumudi1917Chowkhamba
-date_fetched: 2026-11-21
 licence: Public domain: published 1917. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 ` 36140 ८:4८ ` 4 प.

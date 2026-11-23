@@ -5,9 +5,7 @@ edition: Bombay, Nirnaya Sagar Press, 1902
 translator: none
 year: 1902
 source_url: https://archive.org/details/ashtanga-hridaya-by-vagbhata-sarvanga-sundara-arunadatta-anna-moreshwar-kunte-sa
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1902. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 Sy

@@ -5,9 +5,7 @@ edition: Sacred Books of the East vol. 8, Oxford, Clarendon Press, 1882
 translator: Kashinath Trimbak Telang
 year: 1882
 source_url: https://archive.org/details/india.history.resource.89585
-date_fetched: 2026-11-21
 licence: Public domain: published Oxford 1882. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain.
 ---
 
 MT

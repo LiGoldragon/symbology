@@ -5,9 +5,7 @@ translator: N. Chidambaram Iyer
 edition: Madras, Foster Press, 1885, Google Books scan (Google preamble kept)
 year: 1885
 source_url: https://archive.org/details/brihatjatakavar00iyergoog
-date_fetched: 2026-11-21
 licence: public domain. Basis: translator N. Chidambaram Iyer; Madras 1885; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here
 ---
 
 Google 

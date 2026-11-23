@@ -6,10 +6,7 @@
 - **Translator:** Antonio Gogava (Latin)
 - **Year:** 1562
 - **Read from:** https://archive.org/details/aristoxenimusici00aris (file aristoxenimusici00aris_djvu.txt); scan PDF kept beside it (gogava-1562-latin-scan.pdf). Another copy: https://archive.org/details/bub_gb_7NrRhOOPV7AC
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the work is Ptolemy (2nd century); the edition, translation and print are of the date given, and the editor/translator/printer died long before 1955 (worldwide public domain by age). The digitisation carries no claim of its own that was found; the Internet Archive item states it as public domain / Public Domain Mark.
-- **Text status:** Raw machine OCR, not corrected: Latin with long s read as "f". Contents in order: Gogava's dedication and preface, Aristoxenus's Elements (three books), Ptolemy's Harmonics in three books (running head "Cl. Ptolemaei"), and at the end the Aristotle / Porphyry fragment De obiecto auditus; the Greek was not printed.
-
 ---
 
 ARISTOXENI 

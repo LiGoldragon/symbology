@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Bombay, Nirnaya Sagar Press, 1907 (Sanskrit, edited and revised by V. Subrahmanya Sastri; the 3rd edition is 1928)
 year: 1907
 source_url: https://archive.org/details/saravali00kalyuoft
-date_fetched: 2026-11-21
 licence: public domain. Basis: editor V. Subrahmanya Sastri; Bombay 1907; first published before 1930 (US public domain by age)
-text_status: archive.org full-text OCR (djvu text), machine text with recognition errors; not proofread here; Devanagari OCR, readable in most lines
 ---
 
 8 

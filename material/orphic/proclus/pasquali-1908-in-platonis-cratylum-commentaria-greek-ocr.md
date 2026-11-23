@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1908
 - **Read from:** https://archive.org/download/proclidiadochii00pasqgoog/proclidiadochii00pasqgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1908; Pasquali died 1952, public domain in his country since 2023).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 Google 

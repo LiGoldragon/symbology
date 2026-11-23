@@ -5,9 +5,7 @@ edition: Srirangam, Sri Vani Vilas Press, 1910 (Samata Books scan)
 translator: none
 year: 1910
 source_url: https://archive.org/details/in.ernet.dli.2015.424455
-date_fetched: 2026-11-21
 licence: Public domain: published Srirangam 1910. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Includes chapter 18 (adhyaya 18 heading found in the text) and the Sankara bhashya for all chapters.
 ---
 
 60 \/£९ ५४६५ 0£ ६०4

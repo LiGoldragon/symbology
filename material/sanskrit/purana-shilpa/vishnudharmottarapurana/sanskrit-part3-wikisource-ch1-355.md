@@ -5,9 +5,7 @@ translator: none (Sanskrit)
 edition: Wikisource, विष्णुधर्मोत्तरपुराणम्/खण्डः ३, blocks of five chapters (अध्यायाः ००१-००५ to ३५१-३५५) and the विषयानुक्रमणिका; the page notes a Google Drive single file of the Khanda; the print edition is not named
 year: transcription of recent years; text c. 7th century CE (Kramrisch)
 source_url: https://sa.wikisource.org/wiki/विष्णुधर्मोत्तरपुराणम्/तृतीय_खण्डः (pages fetched with action=raw)
-date_fetched: 2026-11-21
 licence: Public domain text, transcribed on Wikisource (sa.wikisource.org), where only public domain or freely licensed works are admitted (the wiki's own additions CC BY-SA 4.0). The base print edition is not named on the pages. Caveat: not proofed against the print.
-text_status: Wikisource page text fetched with action=raw (about 72 pages) and converted by script: wiki templates, header boxes, poem/span/table tags and page links removed, line breaks kept, footnote references kept in square brackets as [note: ...], headings written as Markdown "##". Verse text itself unchanged. Wikisource is a volunteer transcription, not proofed against the print here. 
 ---
 
 ## विषयानुक्रमणिका

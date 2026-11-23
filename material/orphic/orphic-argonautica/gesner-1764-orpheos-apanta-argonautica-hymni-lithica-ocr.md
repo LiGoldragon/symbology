@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1764
 - **Read from:** https://archive.org/download/bub_gb_66odCTv_nV0C/bub_gb_66odCTv_nV0C_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1764).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors, running heads and page numbers left).
-
 ---
 
 | УТ. 

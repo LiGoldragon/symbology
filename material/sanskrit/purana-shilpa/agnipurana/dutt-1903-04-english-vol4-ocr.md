@@ -5,9 +5,7 @@ translator: Manmatha Nath Dutt (Shastri)
 edition: Edited and published by Manmatha Nath Dutt, Calcutta: printed by H. C. Das, Elysium Press, 40 Nayan Chand Dutt's Street, 1903-04 (Volume I 1903; Volumes II-IV 1904), the volumes as the Digital Library of India scanned them (Volumes II to IV are the Cosmo Publications "Rediscovering India" reprint pages of 1987 bound over the same text). Each file begins with the table of contents of the whole work; a heading scan finds chapter headings up to about chapter 214 in Vol. I, and the last lines of Vol. IV are the end of the Purana; some headings are lost to OCR, so continuity between the volumes was checked only roughly.
 year: 1904
 source_url: https://archive.org/download/in.ernet.dli.2015.33602/2015.33602.Agni-Puranam--Vol-4_djvu.txt (item page https://archive.org/details/in.ernet.dli.2015.33602)
-date_fetched: 2026-11-21
 licence: Public domain. First published 1903-04 in Calcutta (US public domain by age); Dutt died 1912. The 1987 Cosmo reprint covers carry no text of their own beyond the title and series pages.
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 PURCHASED

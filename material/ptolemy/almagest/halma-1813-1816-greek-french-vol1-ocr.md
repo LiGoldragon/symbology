@@ -6,10 +6,7 @@
 - **Translator:** Nicolas B. Halma (French); notes by J.-B. Delambre
 - **Year:** 1813
 - **Read from:** https://archive.org/details/india.history.resource.111794 (file 111794_djvu.txt); a Google Books copy of the Greek-French edition is also at https://archive.org/details/bub_gb_I3JWxu9-M50C
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (printed 1813-1816; Halma d. 1828, Delambre d. 1822). The digitisation is from Digital Library of India (Shri Brihad Bhartiya Samaj), no restriction found.
-- **Text status:** Raw machine OCR, not corrected: the French reads; the Greek is badly garbled. Later volumes of the Halma edition are not gathered.
-
 ---
 
 00053275 

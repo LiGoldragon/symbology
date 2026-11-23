@@ -5,9 +5,7 @@ edition: Madras, G. A. Natesan & Co., for V. C. Seshacharri, 1901
 translator: S. Sitarama Sastri
 year: 1901
 source_url: https://archive.org/details/in.ernet.dli.2015.47354
-date_fetched: 2026-11-21
 licence: Public domain: published Madras 1901. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Aitareya and Taittiriya with Sankara's commentary in English.
 ---
 
 203 21

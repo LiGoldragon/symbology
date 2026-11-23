@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1881
 - **Read from:** https://archive.org/download/orpheilithica00orphgoog/orpheilithica00orphgoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1881).
-- **Text status:** OCR text of a scan, kept raw (recognition errors, running heads and page numbers left). The machine reading of the Greek is poor (Greek words come out as Latin-letter noise); the Latin of the apparatus and testimonia reads well. The scan itself is kept as the sibling file abel-1881-orphei-lithica-damigeron-scan.pdf (of the other copy), to be read where the Greek matters.
-
 ---
 
 Google 

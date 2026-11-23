@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1881
 - **Read from:** https://archive.org/download/orpheilithicain00damigoog/orpheilithicain00damigoog_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1881; Abel died 1889).
-- **Text status:** OCR text of a scan, kept raw (recognition errors, running heads and page numbers left). The machine reading of the Greek is poor (Greek words come out as Latin-letter noise); the Latin of the apparatus and testimonia reads well. The scan itself is kept as the sibling file abel-1881-orphei-lithica-damigeron-scan.pdf, to be read where the Greek matters.
-
 ---
 
 Google 

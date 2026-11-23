@@ -5,9 +5,7 @@ edition: Mysore, G. T. A. Printing Works, 1901, second edition revised and impro
 translator: Alladi Mahadeva Sastri
 year: 1897; 1901
 source_url: https://archive.org/details/bhagavadgitawith00maharich
-date_fetched: 2026-11-21
 licence: Public domain: published Mysore 1901 (first edition 1897). Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; page-header noise and recognition errors remain. Full English with Sankara's commentary, chapters 1-18.
 ---
 
 N^  <A

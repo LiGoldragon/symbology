@@ -5,9 +5,7 @@ edition: Bombay, Nirnaya Sagar Press, 1880
 translator: none
 year: 1880
 source_url: https://archive.org/details/ashtangahridayavagbhattacommentaryofarunadattaannamoreshvarkuntevol21880_48_y
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1880. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 ८८८८ ^८ ५ ॥ / 2.5

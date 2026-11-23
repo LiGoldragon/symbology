@@ -6,10 +6,7 @@
 - **Translator:** none (Greek text and scholia; Latin prolegomena)
 - **Year:** 1844
 - **Read from:** https://archive.org/download/bub_gb_-E1WAAAAcAAJ/bub_gb_-E1WAAAAcAAJ_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1844).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; running heads, page numbers, line-end hyphens, the Google Books boilerplate where the scan has it, and recognition errors left as they are) and follows after the rule below. Quality: the Greek of the scholia and the verses is readable with errors in accents and breathings; the Latin prolegomena and critical notes are poorly recognised (set in Greek letters).
-
 ---
 
 κ᾿ Ξ3.}10}}} 9] 5 ΕΥ̓. 

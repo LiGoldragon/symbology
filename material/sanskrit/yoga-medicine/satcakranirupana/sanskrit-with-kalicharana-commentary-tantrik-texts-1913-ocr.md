@@ -5,9 +5,7 @@ edition: Calcutta, 1913 (Tantrik Texts vol. II, ed. Taranatha Vidyaratna), Digit
 translator: none
 year: 1913
 source_url: https://archive.org/details/in.ernet.dli.2015.311355
-date_fetched: 2026-11-21
 licence: Public domain: published Calcutta 1913. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 {^< 1225

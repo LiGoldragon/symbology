@@ -6,10 +6,7 @@
 - **Translator:** none
 - **Year:** 1885
 - **Read from:** https://archive.org/download/orphicarecensuit00orph/orphicarecensuit00orph_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (published 1885; editor Eugen Abel died 1889).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (recognition errors in the Greek, running heads and page numbers left).
-
 ---
 
 Nd ΦΘΗΩ 223757735 T Ὁ» 

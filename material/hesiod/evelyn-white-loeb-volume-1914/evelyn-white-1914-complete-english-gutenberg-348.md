@@ -6,11 +6,7 @@
 - **Translator:** Hugh G. Evelyn-White
 - **Year:** 1914
 - **Read from:** https://gutenberg.pglaf.org/3/4/348/348-0.txt (a mirror of https://www.gutenberg.org/ebooks/348)
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain in the United States (published 1914) and in the United Kingdom (Evelyn-White died 1924). Public domain in the United States (published before 1931). Project Gutenberg's licence header and footer have been removed from this copy, as the licence allows for a work in the public domain in the United States; the text between its START and END markers is kept unchanged.
-- **Contains:** Preface, Introduction, Bibliography; Works and Days; the fragments of Hesiod (Divination by Birds, Astronomy, Precepts of Chiron, Great Works, Idaean Dactyls, Catalogues of Women and Eoiae, Marriage of Ceyx, Great Eoiae, Melampodia, Aegimius, Fragments of Unknown Position, Doubtful Fragments); Theogony; Shield of Heracles; the 33 Homeric Hymns; Epigrams of Homer; the Epic Cycle (War of the Titans, Oedipus, Thebaid, Epigoni, Cypria, Aethiopis, Little Iliad, Sack of Ilium, Returns, Telegony); Homerica (Expedition of Amphiaraus, Taking of Oechalia, Phocais, Margites, Cercopes, Battle of Frogs and Mice); Contest of Homer and Hesiod; endnotes.
-- **Note:** the Works and Days, Theogony, Shield and Hymns are also given separately, from Perseus, with the Greek, in the sibling directories.
-
 ---
 
 Produced by Douglas B. Killings, and David Widger

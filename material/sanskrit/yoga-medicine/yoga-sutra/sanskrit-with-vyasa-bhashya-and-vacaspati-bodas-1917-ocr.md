@@ -5,9 +5,7 @@ edition: Bombay Sanskrit and Prakrit Series no. 46, Bombay, 1917 (eGangotri scan
 translator: none
 year: 1917
 source_url: https://archive.org/details/jogp_patanjal-yoga-sutra-with-bhashya-of-vyasa-and-commentary-of-vachaspati-mishra-by
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1917. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 ~ 11.

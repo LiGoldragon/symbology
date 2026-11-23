@@ -6,10 +6,7 @@
 - **Translator:** J. M. Ashmand
 - **Year:** 1822 (reprint 1917)
 - **Read from:** https://archive.org/details/ashmand-ptolemys-tetrabiblos-or-quadripartite-en-1917
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain: the work is Ptolemy (2nd century); the edition, translation and print are of the date given, and the editor/translator/printer died long before 1955 (worldwide public domain by age). The digitisation carries no claim of its own that was found; the Internet Archive item states it as public domain / Public Domain Mark.
-- **Text status:** Raw machine OCR, not corrected; cleaner than the Google copy, whole book.
-
 ---
 
 PTOLEMY’S TETRABIBLOS. 

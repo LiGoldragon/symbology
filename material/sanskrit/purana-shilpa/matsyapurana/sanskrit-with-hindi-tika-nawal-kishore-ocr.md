@@ -6,9 +6,7 @@ commentator: Hindi tika (a vernacular traditional gloss)
 edition: Lucknow: Munshi Nawal Kishore (the title page names the press; the Internet Archive record gives 1892); the Hindi gloss follows the verses. The graha passage (ch. 93) can be found by searching for «ग्रहयज्ञ».
 year: 1892 (per the Internet Archive record)
 source_url: https://archive.org/download/VPI_matsya_purana/matsya_purana_djvu.txt (item page https://archive.org/details/VPI_matsya_purana)
-date_fetched: 2026-11-21
 licence: Public domain. Published in India before 1931 (Internet Archive record 1892).
-text_status: Raw OCR text of a scan as the Internet Archive produced it (no correction: recognition errors, running heads, page numbers, line-end hyphens and library or digitiser stamps left as they are); runs of spaces inside a line collapsed to one and runs of three or more blank lines collapsed to one. 
 ---
 
 च जि

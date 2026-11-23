@@ -5,9 +5,7 @@ edition: Kalyan, Bombay, 1929 (Ganga Vishnu Krishna Das), Gurukul Kangri scan
 translator: Hindi bhasha (Hindi)
 year: 1929
 source_url: https://archive.org/details/SfCd_gheranda-samhitha-by-ganga-vishnu-krishna-das-comm.-with-bhasha-bombay-1929-kalyan
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1929 (before 1930). Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner.
 ---
 
 | | à i " T

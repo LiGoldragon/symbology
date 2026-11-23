@@ -6,10 +6,7 @@
 - **Translator:** none (Greek scholia; Latin notes)
 - **Year:** 1823
 - **Read from:** https://archive.org/download/poetaeminoresgra02gais/poetaeminoresgra02gais_djvu.txt
-- **Date fetched:** 2026-11-21
 - **Licence / copyright status:** Public domain (ancient and Byzantine texts; the 1823 edition, Gaisford died 1855).
-- **Text status:** OCR text of a scan, kept raw as the Internet Archive produced it (no correction; running heads, page numbers, line-end hyphens, the Google Books boilerplate where the scan has it, and recognition errors left as they are) and follows after the rule below. Quality: the Greek scholia are readable, with errors in accents, breathings and numerals; the Latin apparatus and notes are poorly recognised (set in Greek letters). A second scan of the same volume (Internet Archive item bub_gb_yyVFAQAAIAAJ, Google, 33,594 lines) reads the same; it is not kept.
-
 ---
 
 ἈΝΕ ΒοττΥ 

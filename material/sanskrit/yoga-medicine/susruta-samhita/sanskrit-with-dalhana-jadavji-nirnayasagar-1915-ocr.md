@@ -5,9 +5,7 @@ edition: Bombay, Nirnaya Sagar Press, 1915
 translator: none
 year: 1915
 source_url: https://archive.org/details/in.ernet.dli.2015.369478
-date_fetched: 2026-11-21
 licence: Public domain: published Bombay 1915. Scan text from archive.org, uploaded as a public-domain scan.
-text_status: OCR of a scan (archive.org full text), uncorrected; Devanagari recognition is imperfect in places, English parts are cleaner. Complete Sanskrit with Dalhana, whole work (3 million characters).
 ---
 
 ॥88३5
